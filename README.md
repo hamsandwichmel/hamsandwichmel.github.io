@@ -1,2 +1,4 @@
-# hamsandwichmel.github.io
-Mel Hammond Books
+Welcome to Mel Hammond Books!
+===
+
+This repo hosts melhammondbooks.com!
