@@ -1,0 +1,13 @@
+{% include menu title="About" content=
+"
+| :---: |
+| [ImageJ](/ImageJ) |
+| [Usage](/Usage) |
+| [Contributors](/Contributors) |
+| [Governance](/Governance) |
+| [Funding](/Funding) |
+| [Citing](/Citing) |
+| [Contributing](/Contributing)
+| [Wish list](/Wish_list) |
+"
+%}

@@ -1,0 +1,4 @@
+{% assign people = include.content | split: "|" %}
+{% for person in people %}
+{% include person content=person %}
+{% endfor %}

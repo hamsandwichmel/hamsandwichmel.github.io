@@ -1,0 +1,22 @@
+{% capture info_content %}
+<div info="content" markdown="1">
+{{include.text}}
+</div>
+{% endcapture %}
+
+<div id="info-box">
+    <table class="table-ambox">
+        <tbody>
+            <tr>
+                <td>
+                    <p>
+                        <div id="image-table"><img src="/images/icons/40px-Information-sign.png" style="vertical-align:middle;"></div>
+                    </p>
+                </td>
+                <td>
+                    {{info_content}}
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,12 @@
+{% capture info_content %}
+<div info="content" markdown="1">
+{{include.content}}
+</div>
+{% endcapture %}
+
+<div class="info-side-box">
+<div class="floatleft">
+<img alt="Fiji-icon.png" src="/images/logos/Fiji-icon.png" width="64" height="64" style="float:left;">
+</div>
+{{info_content}}
+</div>

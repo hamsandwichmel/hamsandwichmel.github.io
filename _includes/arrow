@@ -1,0 +1,2 @@
+{% capture content %} › {% endcapture %}
+{{- content | strip_newlines -}}

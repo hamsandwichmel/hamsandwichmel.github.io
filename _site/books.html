@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<title>Books</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="../assets/css/lightbox.min.css" />
+		<link rel="stylesheet" href="../assets/css/debo.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Navigation bar-->
+		<section id="nav">
+    <div class="topnav">
+            <img src="images/logo/mel_logo.png" alt="Mel HAMMOND BOOKS" class=image-logo>
+            <a href="/index">Books</a>
+            <a href="/about">About Mel</a>
+            <a href="/news">In the News</a>
+            <a href="/news">Blog</a>
+            <a href="/contact">Contact</a>
+        <div id="ham-nav" class="ham-drop" onclick="hamActivate(this)">
+            <div class="bar1"></div>
+            <div class="bar2"></div>
+            <div class="bar3"></div>
+            <div id="drop-menu" class="ham-drop-content">
+                <a href="/index">Books</a>
+                <a href="/about">About Mel</a>
+                <a href="/news">In the News</a>
+                <a href="/news">Blog</a>
+                <a href="/contact">Contact</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+        <section id="page" class="main style1">
+            <div class="container">
+				<div class="box alt"></div>
+				<!-- Page content -->
+				<div id="content" class="page-content">
+					<div class="toc">
+						<ol data-toc="#content" data-toc-headings="h1,h2,h3,h4,h5,h6"></ol>
+					</div>
+					<h2>Books</h2>
+					<p>Content</p>
+
+				</div>
+			</div>
+		</section>
+                    
+		<!-- Footer -->
+		<section id="footer">
+        <ul class="icons">
+            <li><a href="https://github.com/imagej" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+            <li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+        <ul class="copyright">
+            <li>&copy; ImageJ/FIJI</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+        </ul>
+</section>
+
+
+		<!-- Scripts -->
+		<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/jquery.scrolly.min.js"></script>
+<script src="/assets/js/browser.min.js"></script>
+<script src="/assets/js/breakpoints.min.js"></script>
+<script src="/assets/js/util.js"></script>
+<script src="/assets/js/jquery.toc.js"></script>
+<script src="/assets/js/main.js"></script>
+<script src="/assets/js/ham_nav.js"></script>
+<script src="/assets/js/lightbox.min.js"></script>
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+		<script>
+  MathJax = {
+    options: {
+      renderActions: {
+        find: [10, function (doc) {
+          for (const node of document.querySelectorAll('script[type^="math/tex"]')) {
+            const display = !!node.type.match(/; *mode=display/);
+            const math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
+            const text = document.createTextNode('');
+            node.parentNode.replaceChild(text, node);
+            math.start = {node: text, delim: '', n: 0};
+            math.end = {node: text, delim: '', n: 0};
+            doc.math.push(math);
+          }
+        }, '']
+      }
+    }
+  };
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+  </body>
+</html>

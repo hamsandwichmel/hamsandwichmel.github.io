@@ -1,0 +1,22 @@
+<section id="nav">
+    <div class="topnav">
+            <img src="images/logo/mel_logo.png" alt="Mel HAMMOND BOOKS" class=image-logo>
+            <a href="{{"/index" | relative_url}}">Books</a>
+            <a href="{{"/about" | relative_url}}">About Mel</a>
+            <a href="{{"/news" | relative_url}}">In the News</a>
+            <a href="{{"/news" | relative_url}}">Blog</a>
+            <a href="{{"/contact" | relative_url}}">Contact</a>
+        <div id="ham-nav" class="ham-drop" onclick="hamActivate(this)">
+            <div class="bar1"></div>
+            <div class="bar2"></div>
+            <div class="bar3"></div>
+            <div id="drop-menu" class="ham-drop-content">
+                <a href="{{"/index" | relative_url}}">Books</a>
+                <a href="{{"/about" | relative_url}}">About Mel</a>
+                <a href="{{"/news" | relative_url}}">In the News</a>
+                <a href="{{"/news" | relative_url}}">Blog</a>
+                <a href="{{"/contact" | relative_url}}">Contact</a>
+            </div>
+        </div>
+    </div>
+</section>
