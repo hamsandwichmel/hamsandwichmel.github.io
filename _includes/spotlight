@@ -6,13 +6,19 @@
                     <li>
                         <img src="/images/coming_soon.png" style="width:200px;height:200px"><p>Book 1 is coming soon!</p>
                         <ul class="actions special">
-                            <li><a href="/plugins/3d-viewer" class="button">Learn more</a></li>
+                            <li><a href="https://www.indiebound.org/book/9781683371786" class="button">IndieBound</a></li>
+                        </ul>
+                        <ul class="actions special">
+                            <li><a href="https://smile.amazon.com/Love-Earth-Understanding-solutions-earth-friendly/dp/168337178X/ref=sr_1_1?dchild=1&keywords=%22love+the+earth%22+%22mel+hammond%22&qid=1609100926&sr=8-1" class="button">Amazon</a></li>
                         </ul>
                     </li>
                     <li>
                         <img src="/images/coming_soon.png" style="width:200px;height:200px"><p>Book 2 is coming soon!</p>
                         <ul class="actions special">
-                            <li><a href="#" class="button">Learn more</a></li>
+                            <li><a href="#" class="button">IndieBound</a></li>
+                        </ul>
+                        <ul class="actions special">
+                            <li><a href="#" class="button">Amazon</a></li>
                         </ul>
                     </li>
                 </ul>
