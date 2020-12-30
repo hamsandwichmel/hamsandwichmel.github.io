@@ -4,7 +4,7 @@
             <a href="{{"/index" | relative_url}}">Books</a>
             <a href="{{"/about" | relative_url}}">About Mel</a>
             <a href="{{"/news" | relative_url}}">In the News</a>
-            <a href="{{"/news" | relative_url}}">Blog</a>
+            <a href="{{"/blog" | relative_url}}">Blog</a>
             <a href="{{"/contact" | relative_url}}">Contact</a>
         <div id="ham-nav" class="ham-drop" onclick="hamActivate(this)">
             <div class="bar1"></div>
@@ -14,7 +14,7 @@
                 <a href="{{"/index" | relative_url}}">Books</a>
                 <a href="{{"/about" | relative_url}}">About Mel</a>
                 <a href="{{"/news" | relative_url}}">In the News</a>
-                <a href="{{"/news" | relative_url}}">Blog</a>
+                <a href="{{"/blog" | relative_url}}">Blog</a>
                 <a href="{{"/contact" | relative_url}}">Contact</a>
             </div>
         </div>
