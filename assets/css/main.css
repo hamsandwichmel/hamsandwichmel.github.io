@@ -2628,6 +2628,7 @@ input, select, textarea {
 
 		.topnav {
 			background-color: #ffffff;
+			height: 2.8em;
 		}
 
 		.topnav a {
@@ -2636,9 +2637,9 @@ input, select, textarea {
 
 		.ham-drop {
 			position: relative;
-			display: inline-block;
+			float: right;
 			cursor: pointer;
-			padding-left: 0.5em;
+			padding-right: 0.5em;
 			padding-top: 0.2em;
 		}
 
