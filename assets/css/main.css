@@ -2420,6 +2420,15 @@ input, select, textarea {
 				margin-top: 0.25em;
 				margin-left: 0.5em;
 			}
+
+		@media screen and (max-width: 550px) {
+
+			.image-logo {
+				float: left;
+				max-width: 75%;
+				margin-top: 0.65em;
+				margin-left: 0.5em;
+			}
 		}
 
 			
