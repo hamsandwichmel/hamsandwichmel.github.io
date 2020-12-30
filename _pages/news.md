@@ -1,6 +1,6 @@
 ---
-title: What's up
+title: In the News
 layout: page
 ---
 
-Content
+Check back soon!
