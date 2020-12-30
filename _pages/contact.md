@@ -3,4 +3,5 @@ title: Contact
 layout: page
 ---
 
-Content
+
+{% include contact-form %}
