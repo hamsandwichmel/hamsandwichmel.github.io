@@ -4,7 +4,7 @@
             <div class="col-12 col-12-medium">
                 <ul class="major-icons">
                     <li>
-                        <img src="/images/coming_soon.png" style="width:200px;height:200px"><p>Book 1 is coming soon!</p>
+                        <img src="/images/books/love_the_earth.png" style="max-width: 70%;"><p>Love the Earth</p>
                         <ul class="actions special">
                             <li><a href="https://www.indiebound.org/book/9781683371786" class="button">IndieBound</a></li>
                         </ul>
@@ -13,12 +13,12 @@
                         </ul>
                     </li>
                     <li>
-                        <img src="/images/coming_soon.png" style="width:200px;height:200px"><p>An advice book is coming soon!</p>
+                        <img src="/images/coming_soon.png" style="max-width: 72%;"><p>An advice book is coming soon!</p>
                         <ul class="actions special">
-                            <li><a href="#" class="button">IndieBound</a></li>
+                            <li><a href="#" class="button disabled">IndieBound</a></li>
                         </ul>
                         <ul class="actions special">
-                            <li><a href="#" class="button">Amazon</a></li>
+                            <li><a href="#" class="button disabled">Amazon</a></li>
                         </ul>
                     </li>
                 </ul>
