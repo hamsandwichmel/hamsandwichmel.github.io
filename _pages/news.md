@@ -4,7 +4,7 @@ layout: page
 ---
 
 ### _Love the Earth_ review - 02/02/2021
-Sam Killmeyer of 350 Colorado wrote a beautiful in-depth review of Love the Earth, which includes some quotes from me. It was so much fun to talk about the book with her! Find the article here: Teaching Girls To Love The Earth – And Take Action To Protect It!
+Sam Killmeyer of 350 Colorado wrote a beautiful in-depth review of Love the Earth, which includes some quotes from me. It was so much fun to talk about the book with her! Find the article here: [Teaching Girls To Love The Earth – And Take Action To Protect It!](https://350colorado.org/teaching-girls-to-love-the-earth-and-take-action-to-protect-it/)
 
 
 ### _Love the Earth_ released - 12/31/2020
