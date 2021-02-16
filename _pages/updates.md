@@ -3,7 +3,18 @@ title: Updates
 layout: page
 ---
 
-### New Book: Love the Earth
+### New Book: _Pets_
+
+**February 16, 2021**
+
+<img src="images/profile/niko_rogi_pets.png" alt="Pets" class="image-left " style="width:300px;">
+
+My cats Niko and Purrogi are extra excited about this new book: Pets! This book is for animal lovers, whether they already have a pet or are trying to convince their family they’re ready for the responsibility. It’s filled with quizzes, advice, crafts, and stories to help kids learn everything they need to know about getting a pet, taking care of it, and giving it as much love as possible. Niko and Purrogi gave it two paws up!
+
+While spending so much time at home, [more families than ever](https://www.usatoday.com/story/money/2020/09/02/dog-adoption-covid-19-creates-a-thriving-business-for-dogs/5680569002/) are adopting animals from shelters. That’s great news for pets and their human companions. [Studies](https://www.npr.org/2020/11/11/933754536/pet-adoptions-bring-some-joy-during-coronavirus-pandemic) show that touching a pet can improve your emotional health and well-being, which is extra important during a scary and lonely pandemic. Niko and Purrogi are pandemic kitties themselves, and they’ve brought so much cuddling and silliness to my household. Whether you’ve just adopted a pet or are thinking about bringing a furry, feathery, or scaly friend home, take a look at this very fun book. 
+
+
+### New Book: _Love the Earth_
 
 **December 31, 2020**
 
