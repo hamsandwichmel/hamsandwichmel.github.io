@@ -162,6 +162,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.35em;
 		line-height: 1.5em;
+		padding-top: 1em;
 	}
 
 	h4 {
