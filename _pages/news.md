@@ -3,6 +3,10 @@ title: In the News
 layout: page
 ---
 
+### American Girl Doll News Interview - 07/30/2021
+
+Sydney of American Girl Doll News interviewed me about Love the Earth. What an honor! Read it here: [Interview with Mel Hammond: Author of Love the Earth](https://www.americangirldollnews.com/post/interview-with-mel-hammond-author-of-love-the-earth-collaboration-with-american-girl).
+
 ### _Love the Earth_ wins NPPA award - 04/13/2021
 
 The National Parenting Product Awards (NPPA) announced Love the Earth as a [2021 winner](https://www.nappaawards.com/product/love-the-earth-understanding-climate-change-speaking-up-for-solutions-and-living-an-earth-friendly-life/). One evaluator said: “My daughter was immediately drawn to the book and read it four times…. She suddenly became an environmentalist.” 
