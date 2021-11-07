@@ -3,6 +3,10 @@ title: In the News
 layout: page
 ---
 
+### _Love the Earth_ and _Pets_ both win Moonbeam gold! - 10/06/2021
+
+The [2021 Moonbeam awards](https://moonbeamawards.com/98/2021-winners-temp-5) judging is complete, and Love the Earth and Pets both took home gold medals! Love the Earth won gold in the Environmental Issues category, and Pets won in the Animals/Pets Non-fiction category. What an honor! 
+
 ### American Girl Doll News Interview - 07/30/2021
 
 Sydney of American Girl Doll News interviewed me about Love the Earth. What an honor! Read it here: [Interview with Mel Hammond: Author of Love the Earth](https://www.americangirldollnews.com/post/interview-with-mel-hammond-author-of-love-the-earth-collaboration-with-american-girl).
