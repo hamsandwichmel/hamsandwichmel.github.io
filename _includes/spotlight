@@ -5,6 +5,12 @@
                 <ul class="major-icons">
                     <li>
                         <a href="https://www.americangirl.com/shop/p/love-the-earth-gyg41"><img src="/images/books/love_the_earth.png" style="max-width: 70%;"></a><p>Love the Earth</p>
+                        <table><tr>
+                            <table style="font-size: medium; text-align: center;">
+                                <tr><th style="text-align: center;">Moonbeam Children's Book Award for Environmental Issues (Gold) (2021)</th></tr>
+                                <tr><th style="text-align: center;">National Parenting Product Awards (NPPA) Winner (2021)</th></tr>
+                            </table>
+                        </tr></table>
                         <ul class="actions special">
                             <li><a href="https://www.indiebound.org/book/9781683371786" class="button">IndieBound</a></li>
                         </ul>
@@ -13,7 +19,12 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="https://www.americangirl.com/shop/p/pets-getting-them-caring-for-them-and-loving-them-gxc98"><img src="/images/books/pets.png" style="max-width: 74%;"></a><p>Pets</p>
+                        <a href="https://www.americangirl.com/shop/p/pets-getting-them-caring-for-them-and-loving-them-gxc98"><img src="/images/books/pets.png" style="max-width: 68%;"></a><p>Pets</p>
+                        <table><tr>
+                            <table style="font-size: medium; margin-bottom: 2.9em;">
+                                <tr><th style="text-align: center;">Moonbeam Children's Book Award for Animals/Pets Non-Fiction (Gold) (2021)</th></tr>
+                            </table>
+                        </tr></table>
                         <ul class="actions special">
                             <li><a href="https://www.indiebound.org/book/9781683371731" class="button">IndieBound</a></li>
                         </ul>
