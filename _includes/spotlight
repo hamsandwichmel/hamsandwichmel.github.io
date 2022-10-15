@@ -2,13 +2,13 @@
     <div class="container">
         <div class="row gtr-150">
             <div class="col-12 col-12-medium">
-                <ul class="major-icons">
+                <ul class="major-icons" style="padding: 0; margin: 0; display: flex; list-style: none; justify-content: center;">
                     <li>
-                        <a href="https://www.americangirl.com/shop/p/love-the-earth-gyg41"><img src="/images/books/love_the_earth.png" style="max-width: 70%;"></a><p>Love the Earth</p>
+                        <a href="https://www.americangirl.com/shop/p/love-the-earth-gyg41"><img src="/images/books/love_the_earth.png" style="max-height: 40%;"></a><p>Love the Earth</p>
                         <table><tr>
                             <table style="font-size: medium; text-align: center;">
-                                <tr><th style="text-align: center;">Moonbeam Children's Book Award for Environmental Issues (Gold) (2021)</th></tr>
-                                <tr><th style="text-align: center;">National Parenting Product Awards (NPPA) Winner (2021)</th></tr>
+                                <tr><th style="text-align: center;">Moonbeam Children's Book Award for Environmental Issues (Gold) (2021)<br>National Parenting Product Awards (NPPA) Winner (2021)</th></tr>
+
                             </table>
                         </tr></table>
                         <ul class="actions special">
@@ -19,9 +19,9 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="https://www.americangirl.com/shop/p/pets-getting-them-caring-for-them-and-loving-them-gxc98"><img src="/images/books/pets.png" style="max-width: 68%;"></a><p>Pets</p>
+                        <a href="https://www.americangirl.com/shop/p/pets-getting-them-caring-for-them-and-loving-them-gxc98"><img src="/images/books/pets.png" style="max-height: 40%"></a><p>Pets</p>
                         <table><tr>
-                            <table style="font-size: medium; margin-bottom: 2.9em;">
+                            <table style="font-size: medium;">
                                 <tr><th style="text-align: center;">Moonbeam Children's Book Award for Animals/Pets Non-Fiction (Gold) (2021)</th></tr>
                             </table>
                         </tr></table>
@@ -30,6 +30,20 @@
                         </ul>
                         <ul class="actions special">
                             <li><a href="https://smile.amazon.com/Pets-Getting-them-caring-loving/dp/1683371739/ref=sr_1_1?dchild=1&qid=1613481371&refinements=p_27%3AMel+Hammond&s=books&sr=1-1&text=Mel+Hammond" class="button">Amazon</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="https://www.americangirl.com/shop/p/pets-getting-them-caring-for-them-and-loving-them-gxc98"><img src="/images/books/body_image.png" style="max-height: 40%"></a><p>A Smart Girl's Guide: Body Image</p>
+                        <table><tr>
+                            <table style="font-size: medium;">
+                                <tr><th style="text-align: center; padding-bottom: 5em;"></th></tr>
+                            </table>
+                        </tr></table>
+                        <ul class="actions special">
+                            <li><a href="https://www.indiebound.org/book/9781683371908" class="button">IndieBound</a></li>
+                        </ul>
+                        <ul class="actions special">
+                            <li><a href="https://www.amazon.com/Smart-Girls-Guide-yourself-celebrate/dp/1683371909/" class="button">Amazon</a></li>
                         </ul>
                     </li>
                 </ul>

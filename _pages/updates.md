@@ -3,11 +3,22 @@ title: Updates
 layout: page
 ---
 
+### New Book: _A Smart Girl's Guide: Body Image_
+
+**August 1, 2022**
+
+<img src="images/profile/body_image.jpg" alt="Body image" class="image-right " style="width: 250px;">
+
+
+This book is for any kid with a body! (Well, any kid ten and up.) In these pages, kids will find everything they need to know about loving their unique self, staying confident through their body's changes, and appreciating their body for the life it allows them to live. It's full of fun activities, tips, crafts, and real-girl stories! (The real-girl stories are my favorite part.) Get ready for a fun, anti-diet explosion of positivity. 
+
+I was lucky to work with some stellar advisors on this project, including disability studies expert Dr. Rebecca Taussig and physician Dr. Carly Guss. They helped bring this book to life and make sure the illustrations celebrated as many types of bodies as possible. I hope you like it! 
+
 ### New Book: _Pets_
 
 **February 16, 2021**
 
-<img src="images/profile/niko_rogi_pets.png" alt="Pets" class="image-left " style="width:300px;">
+<img src="images/profile/niko_rogi_pets.png" alt="Pets" class="image-left " style="width:280px;">
 
 My cats Niko and Purrogi are extra excited about this new book: Pets! This book is for animal lovers, whether they already have a pet or are trying to convince their family they’re ready for the responsibility. It’s filled with quizzes, advice, crafts, and stories to help kids learn everything they need to know about getting a pet, taking care of it, and giving it as much love as possible. Niko and Purrogi gave it two paws up!
 
