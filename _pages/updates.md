@@ -12,7 +12,7 @@ layout: page
 
 This book is for any kid with a body! (Well, any kid ten and up.) In these pages, kids will find everything they need to know about loving their unique self, staying confident through their body's changes, and appreciating their body for the life it allows them to live. It's full of fun activities, tips, crafts, and real-girl stories! (The real-girl stories are my favorite part.) Get ready for a fun, anti-diet explosion of positivity. 
 
-I was lucky to work with some stellar advisors on this project, including disability studies expert Dr. Rebecca Taussig and physician Dr. Carly Guss. They helped bring this book to life and make sure the illustrations celebrated as many types of bodies as possible. I hope you like it! 
+I was lucky to work with some stellar advisors on this project, including a disability studies expert, an adolescent medicine doctor, and sociologist who studies race and body size. I hope you like it!
 
 ### New Book: _Pets_
 
