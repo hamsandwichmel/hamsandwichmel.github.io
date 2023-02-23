@@ -7,6 +7,8 @@ layout: page
 
 Hi! My name is Mel, and I write and edit books for kids. My favorite things are trees, rainbows, and dairy-free ice cream. In my opinion, the funniest thing in the world is when food is in places where it’s not supposed to be, like a hotdog in your backpack or a banana on a playground swing.
 
-I live in Madison, Wisconsin, where I work as a content editor for American Girl. It’s pretty much the best job in the world. Before working here, I had less-fun jobs, like writing instructions for operating room software and selling sweet tea next to a carnival game that played “Love Shack” on repeat. Now, I get to read, write, and edit children’s books all day, which is a lot of fun. And last year for my birthday, my coworkers bought me a two-pound tub of rainbow marshmallows, which I named Marsh. It doesn’t get much better than that. 
+I live in Madison, Wisconsin, where I worked as a content development editor for American Girl for four years. It was pretty much the best job in the world! I wrote advice and activity books, edited fiction books, and once received a two-pound tub of marshmallows as a birthday gift.  
 
-I went to college in Roanoke, Virginia, where I studied writing and art at Hollins University. I picked that school because a lot of children’s book writers had gone there—plus, there was unlimited ice cream in the dining hall. After that, I earned my master’s degree in children’s literature at Kansas State, where I studied misplaced and giant food in picture books. (Think _Cloudy with a Chance of Meatballs._) My professors told me that reading my papers made them very hungry, which I considered high praise.
+Now, I’m a freelance writer and editor, available to work on children’s fiction, nonfiction, and activity books. If you hire me for a project, you’ll get to meet my two feline coworkers, Purrogi and Io. They have a variety of skills, including screaming. Let’s work together! 
+
+P.S. I’m represented by Tracey Adams at [Adams Literary](http://www.adamsliterary.com/).

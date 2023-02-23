@@ -3,6 +3,12 @@ title: Updates
 layout: page
 ---
 
+### I'm open for business!
+
+**February 21, 2023**
+
+Today marks the beginning of my freelance writing and editing career. I’m available to write children’s fiction, nonfiction, and activity books. I also offer editing services. Reach out on my **[Contact page](https://www.melhammondbooks.com/contact)** if you’d like to work together!
+
 ### New Book: _A Smart Girl's Guide: Body Image_
 
 **August 1, 2022**
