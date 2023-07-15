@@ -8,4 +8,4 @@ layout: home
 
 <!-- Spotlight -->
 
-Place holder text.
+{% include spotlight %}
