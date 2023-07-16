@@ -6,6 +6,6 @@ layout: home
 <!-- Header -->
 
 
-<!-- Spotlight -->
+<!-- home page content -->
 
-Place holder text.
+{% include home-page-content %}
