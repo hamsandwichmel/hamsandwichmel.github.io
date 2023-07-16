@@ -1,1 +1,0 @@
-<a class="wikipedia" href="https://en.wikipedia.org/wiki/{{include.title | replace: ' ', '_'}}">{{include.text}}</a>
