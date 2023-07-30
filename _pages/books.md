@@ -1,5 +1,5 @@
 ---
-title: Mel Hammond Books
+title: Books
 layout: home
 ---
 
