@@ -1,5 +1,13 @@
 <section id="footer">
-        <ul class="copyright">
-            <li>&copy; Mel Hammond 2021</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-        </ul>
+  <ul class="icons">
+    <li><a href="https://www.tiktok.com/@hamtasticduo?_t=8dw3ng7wubr" class="icon brands alt fa-tiktok"><span class="label">TikTok</span></a></li>
+    <li><a href="https://www.instagram.com/hamsandwichmel/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+  </ul>
+  <ul class="copyright">
+    <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+  </ul>
 </section>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}
