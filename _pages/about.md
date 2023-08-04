@@ -3,7 +3,8 @@ title: About Mel
 layout: page
 ---
 
-{% include image-right image_path="images/profile/mel_profile.jpg" name="Mel" %}
+<img src="images/profile/mel_profile.jpg" alt="Mel" class="image-right" style="max-width: 45%; height: auto;">
+
 
 Hi! My name is Mel, and I write and edit books for kids. My favorite things are trees, rainbows, and dairy-free ice cream. In my opinion, the funniest thing in the world is when food is in places where it’s not supposed to be, like a hotdog in your backpack or a banana on a playground swing.
 
