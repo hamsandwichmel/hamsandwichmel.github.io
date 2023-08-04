@@ -5,11 +5,13 @@
                 <!-- Centered image -->
                 <div style="text-align: center;">
                     <figure>
-                        <img src="/images/site/mel_teeg_home.jpeg" alt="Home Image" style="max-width: 60%; height: auto; margin: 20px 0;">
                         <figcaption style="padding-top: 1.0em;">
                             Mel is an award-winning author of fiction and nonfiction for kids and young adults. She co-wrote her latest book, <span style="font-style: italic;">Lucy, Uncensored</span>, with her sister, Teghan Hammond.
                         </figcaption>
+                        <img src="/images/site/mel_teeg_home.jpeg" alt="Home Image" style="max-width: 45%; height: auto; margin: 20px 0;">
                     </figure>
+                    <p style="margin-top: 1em;">Sign up to receive updates about my books and events!</p>
+                    {% include newsletter-form %}
                 </div>
             </div>
         </div>
