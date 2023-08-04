@@ -3,6 +3,12 @@ title: Updates
 layout: page
 ---
 
+### _Lucy, Uncensored_ will be published by Knopf in Fall 2024!
+
+**June 1, 2023**
+
+I co-wrote this YA novel with my sister, Teghan Hammond. It’s about a transgender teen, Lucy, and her cis best friend, Callie, senior theater nerds who plan on attending the same college drama program. But when their queer adaptation of _The Tempest_ gets banned by the school, Lucy starts to rethink her dream. 
+
 ### I'm open for business!
 
 **February 21, 2023**
