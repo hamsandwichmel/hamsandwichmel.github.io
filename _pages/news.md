@@ -3,6 +3,10 @@ title: In the News
 layout: page
 ---
 
+### I wrote a trans-friendly kids' book. The Internet called me a filthy groomer - 06/14/2023
+
+Check out **[this article](https://tonemadison.com/articles/i-wrote-a-trans-friendly-kids-book-the-internet-called-me-a-filthy-groomer/)** I wrote for Tone Madison about my experience being at the center of a storm of right-wing harassment.
+
 ### _A Smart Girl's Guide: Body Image_ goes viral - 12/14/2022
 
 This book celebrates all kids, including trans kids. Some people didn’t like that. (Don’t worry, I turned all my hate mail into a rainbow collage and hung it above the cats’ litter box.) Read more about the drama **[here](https://19thnews.org/2022/12/american-girl-book-inclusivity-right-wing-backlash/)**.
