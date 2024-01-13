@@ -2,6 +2,9 @@
 title: In the News
 layout: page
 ---
+### Mel and Teghan Featured on Jo's Boys Podcast - 01/12/2024
+
+Thanks to Peyton Thomas for inviting us on to chat about Little Women! Check out the episode **[on Apple Podcasts](https://podcasts.apple.com/us/podcast/chapter-44-my-lord-and-lady-with-mel-and-teghan-hammond/id1610742792?i=1000641415364)** or wherever you listen to podcasts. 
 
 ### I wrote a trans-friendly kids' book. The Internet called me a filthy groomer - 06/14/2023
 
