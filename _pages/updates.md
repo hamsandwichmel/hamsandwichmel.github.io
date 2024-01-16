@@ -2,14 +2,18 @@
 title: Updates
 layout: page
 ---
+### Preorder _Lucy, Uncensored_ now!
+**January 16, 2024**
 
-### _Lucy, Uncensored_ will be published by Knopf in Fall 2024!
+Houston, we have a release date! _Lucy, Uncensored_ will be published on—drumroll please—October 8, 2024. You can preorder it **[here](https://www.penguinrandomhouse.com/books/750113/lucy-uncensored-by-mel-hammond-and-teghan-hammond/)**. Preorders help make a book's launch more successful, so we thank you for your support! 
+
+### _Lucy, Uncensored_ will be published by Knopf Books for Young Readers in Fall 2024
 
 **June 1, 2023**
 
 I co-wrote this YA novel with my sister, Teghan Hammond. It’s about a transgender teen, Lucy, and her cis best friend, Callie, senior theater nerds who plan on attending the same college drama program. But when their queer adaptation of _The Tempest_ gets banned by the school, Lucy starts to rethink her dream. 
 
-### I'm open for business!
+### I'm open for business
 
 **February 21, 2023**
 
