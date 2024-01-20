@@ -1,15 +1,14 @@
 ---
-title: About Mel
+title: About the Authors
 layout: page
 ---
 
-<img src="images/profile/mel_profile.jpg" alt="Mel" class="image-right" style="max-width: 45%; height: auto;">
+<img src="/images/site/mel_teeg_home.jpeg" alt="Teghan and Mel laugh in the grass while talking on banana phones" class="image-right" style="max-width: 45%; height: auto;">
 
 
-Hi! My name is Mel, and I write and edit books for kids. My favorite things are trees, rainbows, and dairy-free ice cream. In my opinion, the funniest thing in the world is when food is in places where it’s not supposed to be, like a hotdog in your backpack or a banana on a playground swing.
+**Teghan Hammond** and **Mel Hammond** are sisters who grew up punching each other whenever they saw a P.T. Cruiser, dying their hair blue together, and fabricating a fake band in which their middle brother was (allegedly) the lead singer. Writing Lucy, Uncensored was their first time co-writing. Unless you count the summer they spent scribbling down recipes for the strangest sandwiches you’ve ever heard of, like the Tax Exemption Wrap (Teghan) and the Nail Gun Sandwich (Mel).
 
-I live in Madison, Wisconsin, where I worked as a content development editor for American Girl for four years. It was pretty much the best job in the world! I wrote advice and activity books, edited fiction books, and once received a two-pound tub of marshmallows as a birthday gift.  
+Today, **Teghan** lives in northern Indiana, where she drinks excessive amounts of coffee and volunteers for LGBTQIA+ causes. When she’s not tearing down gender norms, Teghan is probably watching cartoons or gaming. **Mel** lives in Madison, Wisconsin, where she writes books in a rainbow-painted room. Besides writing, she loves walking in the woods and eating dairy-free ice cream. Between the two of them, Teghan and Mel have four adorable cats. 
 
-Now, I’m a freelance writer and editor, available to work on children’s fiction, nonfiction, and activity books. If you hire me for a project, you’ll get to meet my two feline coworkers, Purrogi and Io. They have a variety of skills, including screaming. Let’s work together! 
 
-P.S. I’m represented by Tracey Adams at [Adams Literary](http://www.adamsliterary.com/).
+P.S. We're represented by Tracey Adams at [Adams Literary](http://www.adamsliterary.com/).
