@@ -1,5 +1,5 @@
 ---
-title: Other Books
+title: All Books
 layout: page
 ---
 <style>
@@ -28,6 +28,13 @@ layout: page
 </style>
 
 <div class="grid-container">
+    <div class="grid-item">
+        <h3>Lucy, Uncensored</h3>
+        <a href="https://www.roomofonesown.com/book/9780593814055" target="_blank">
+            <img src="/images/books/coming_soon_pink.png" alt="coming soon book cover">
+        </a>
+        <p>YA fiction coming October 2024</p>
+    </div>
     <div class="grid-item">
         <h3>Love the Earth</h3>
         <a href="https://www.americangirl.com/products/love-the-earth-gyg41" target="_blank">
@@ -71,4 +78,24 @@ layout: page
         </a>
         <p>Coming August 2024</p>
     </div>
+    <div class="grid-item">
+        <h3>Spotlight on Stepping</h3>
+        <a href="https://www.amazon.com/Spotlight-Stepping-Lerner-Sports-Rookie/dp/B0CPM43277" target="_blank">
+            <img src="/images/books/stepping.png" alt="Stepping book cover">
+        </a>
+        <p>Coming August 2024</p>
+    </div>
+    <div class="grid-item">
+        <h3>Through the Fog</h3>
+        <a href="https://www.benchmarkeducation.com/" target="_blank">
+            <img src="/images/books/coming_soon_rainbow.png" alt="coming soon book cover">
+        </a>
+        <p>Historical fiction: American Revolution</p>
+    </div>
+    <div class="grid-item">
+        <h3>The Ultimate Midwest Road Trip</h3>
+        <a href="https://www.benchmarkeducation.com/" target="_blank">
+            <img src="/images/books/coming_soon_red.png" alt="coming soon book cover">
+        </a>
+        <p>Nonfiction: Geography</p>
 </div>

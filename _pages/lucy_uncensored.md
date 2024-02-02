@@ -6,7 +6,7 @@ layout: page
 
 Coming October 8, 2024! Preorder the book [here](https://www.penguinrandomhouse.com/books/750113/lucy-uncensored-by-mel-hammond-and-teghan-hammond/).
 
-<img src="/images/coming_soon.png" alt="the words Coming Soon on an abstract blue background" class="image-right" style="max-width: 55%; height: auto; padding-bottom: 0;">
+<img src="/images/books/coming_soon_pink.png" alt="the words Coming Soon on an abstract background" class="image-right" style="max-width: 45%; height: auto; padding-bottom: 0;">
 
 **A road trip through gender identity, self-expression, and the thorny process of figuring out where you fit after high school as an out-and-proud transgender teen.**
 
