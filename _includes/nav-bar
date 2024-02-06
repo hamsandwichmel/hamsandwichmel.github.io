@@ -6,7 +6,7 @@
             <a href="{{"/books" | relative_url}}">All Books</a>
             <a href="{{"/about" | relative_url}}">About</a>
             <a href="{{"/news" | relative_url}}">In the News</a>
-            <a href="{{"/updates" | relative_url}}">Updates</a>
+            <a href="{{"/events" | relative_url}}">Events</a>
             <a href="{{"/contact" | relative_url}}">Contact</a>
         <div id="ham-nav" class="ham-drop" onclick="hamActivate(this)">
             <div class="bar1"></div>
