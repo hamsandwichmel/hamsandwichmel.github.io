@@ -6,7 +6,7 @@ layout: page
 Mel (and Teghan!) love to chat about our books. We'd love to visit your school, bookstore, book festival, conference, or podcast—in person or virtually! Reach out on the [Contact](https://www.melhammondbooks.com/contact) page to get in touch.  
 
 
-<img src="images/site/savy_youtube.png" alt="Savy, Mel, and Teghan chat over Zoom" class="image-right " style="height:300px;">
+<img src="images/site/savy_youtube.png" alt="Savy, Mel, and Teghan chat over Zoom" class="image-right " style="max-width:40%;">
 ### Podcasts & Interviews
 Mel and Teghan love to talk. Invite us onto your show! 
 
@@ -17,7 +17,7 @@ Mel and Teghan love to talk. Invite us onto your show!
 - "Chapter 44: My Lord and Lady with Mel and Teghan Hammond" - [Jo's Boys: A LIttle Women Podcast](https://jos-boys-a-little-women-podcast.castos.com/episodes/chapter-44-my-lord-and-lady-with-mel-and-teghan-hammond) 
 
 <div class="entry">
-    <img src="images/site/school_visit.jpeg" alt="Mel presents Love the Earth in a classroom" class="image-right" style="height:300px;">
+    <img src="images/site/school_visit.jpeg" alt="Mel presents Love the Earth in a classroom" class="image-right" style="max-width: 40%;">
     <div class="text">
         <h3>School Visits</h3>
         <p>Mel and Teghan can visit your school in person or virtually to discuss LUCY, UNCENSORED and their unique process of cowriting a YA novel as sisters. Mel can also visit your school to discuss climate change, pets, how books are made, and how to write a story.</p>
