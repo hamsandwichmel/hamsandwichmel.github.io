@@ -30,8 +30,8 @@ layout: page
 <div class="grid-container">
     <div class="grid-item">
         <h3>Lucy, Uncensored</h3>
-        <a href="https://www.roomofonesown.com/book/9780593814055" target="_blank">
-            <img src="/images/books/coming_soon_pink.png" alt="coming soon book cover">
+        <a href="https://www.penguinrandomhouse.com/books/750113/lucy-uncensored-by-mel-hammond-and-teghan-hammond/" target="_blank">
+            <img src="/images/books/lucy_uncensored.jpeg" alt="Lucy, Uncensored cover, featuring two teenage girls in front of a theater marquee">
         </a>
         <p>YA fiction coming October 2024</p>
     </div>
