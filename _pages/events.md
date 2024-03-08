@@ -14,7 +14,7 @@ Mel and Teghan love to talk. Invite us onto your show!
 - COMING SOON - [A Novel Ending Podcast](https://www.anovelending.com/podcast)
 - COMING SOON - [Something (Rather Than Nothing) Podcast](https://www.somethingratherthannothing.com/)
 - "I Interviewed the American Girl Author Canceled by the Far Right" - [Savy Writes Books](https://youtu.be/pbcayXOV7Tc?si=J5zsrcT5ineM4Hji)
-- "Chapter 44: My Lord and Lady with Mel and Teghan Hammond" - [Jo's Boys: A LIttle Women Podcast](https://jos-boys-a-little-women-podcast.castos.com/episodes/chapter-44-my-lord-and-lady-with-mel-and-teghan-hammond) 
+- "Chapter 44: My Lord and Lady with Mel and Teghan Hammond" - [Jo's Boys: A Little Women Podcast](https://jos-boys-a-little-women-podcast.castos.com/episodes/chapter-44-my-lord-and-lady-with-mel-and-teghan-hammond) 
 
 <div class="entry">
     <img src="images/site/school_visit.jpeg" alt="Mel presents Love the Earth in a classroom" class="image-right" style="max-width: 40%;">
@@ -33,5 +33,12 @@ Mel and Teghan love to talk. Invite us onto your show!
 LUCY, UNCENSORED comes out October 8, 2024. We'll be out and about chatting about our book and signing copies!
 
 **Upcoming Events:**
-- TBD October, 2024 - [Room of One's Own](https://www.roomofonesown.com/), Madison, Wisconsin
+- TBD October, 2024 - Madison, Wisconsin
 - TBD October, 2024 - [Hyde Brothers Booksellers](https://hydebros.com/), Fort Wayne, Indiana
+
+<img src="images/site/art_lit_lab.png" alt="the words Art Lit Lab on a red background" class="image-right " style="max-width:25%;">
+### Workshops
+Interested in learning to write for young people? Join an upcoming writing workshop! 
+
+**Upcoming Classes:**
+- 4-week series (details TBD), May, 2024 - [Arts + Literature Labratory](https://artlitlab.org/), Madison, Wisconsin
