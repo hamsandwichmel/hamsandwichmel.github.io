@@ -41,7 +41,7 @@ LUCY, UNCENSORED comes out October 8, 2024. We'll be out and about chatting abou
 Interested in learning to write for young people? Join an upcoming writing workshop! 
 
 **Upcoming Classes:**
-- Writing YA and Middle Grade Novels, May 2-23, 2024 - [Arts + Literature Labratory](https://artlitlab.org/), Madison, Wisconsin
+- [Writing YA and Middle Grade Novels](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/729013), May 2-23, 2024 - [Arts + Literature Labratory](https://artlitlab.org/), Madison, Wisconsin
 
 Have you always dreamed of writing a novel for young readers? Is there an idea incubating in your brain? Join this class and bring your story to life!
 
