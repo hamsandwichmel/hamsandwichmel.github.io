@@ -12,7 +12,7 @@ Mel and Teghan love to talk. Invite us onto your show!
 
 **Listen here:**
 - COMING SOON - [A Novel Ending Podcast](https://www.anovelending.com/podcast)
-- COMING SOON - [Something (Rather Than Nothing) Podcast](https://www.somethingratherthannothing.com/)
+- "Mel and Teghan Hammond" - [Something (Rather Than Nothing) Podcast](https://podcasts.apple.com/us/podcast/mel-and-teghan-hammond/id1473313040?i=1000652795846)
 - "I Interviewed the American Girl Author Canceled by the Far Right" - [Savy Writes Books](https://youtu.be/pbcayXOV7Tc?si=J5zsrcT5ineM4Hji)
 - "Chapter 44: My Lord and Lady with Mel and Teghan Hammond" - [Jo's Boys: A Little Women Podcast](https://jos-boys-a-little-women-podcast.castos.com/episodes/chapter-44-my-lord-and-lady-with-mel-and-teghan-hammond) 
 
