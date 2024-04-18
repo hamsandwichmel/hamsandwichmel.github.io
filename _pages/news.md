@@ -3,6 +3,13 @@ title: In the News
 layout: page
 ---
 <div class="entry">
+    <img src="images/site/something_podcast.png" alt="Something Rather Than Nothing Podcast logo" class="image-right " style="max-width:20%;">
+    <div class="text">
+        <h3>Mel and Teghan Talk Philosophy</h3>
+        <h4>04.18.2024</h4>
+        <p>Listen to Teghan and Mel discuss life's big questions on the Something Rather than Nothing podcast, hosted by Ken Volante. We had a lot of fun! Listen to the episode <a href="https://podcasts.apple.com/us/podcast/mel-and-teghan-hammond/id1473313040?i=1000652795846">on Apple Podcasts,</a> or wherever you get your podcasts.</p>
+    </div>
+<div class="entry">
     <img src="images/site/savy_youtube.png" alt="YouTube interview screenshot" class="image-right " style="max-width:35%;">
     <div class="text">
         <h3>LUCY, UNCENSORED Interview with Savy Writes Books</h3>
@@ -47,30 +54,47 @@ layout: page
     </div>
 </div>
 
-<img src="images/site/moonbeam.jpeg" alt="moonbeam book awards logo" class="image-left " style="max-width:15%;">
-### _Love the Earth_ and _Pets_ both win Moonbeam gold!
-#### 10.06.2021
+<div class="entry">
+    <img src="images/site/moonbeam.jpeg" alt="moonbeam book awards logo" class="image-left" style="max-width:15%;">
+    <div class="text">
+        <h3><em>Love the Earth</em> and <em>Pets</em> both win Moonbeam gold!</h3>
+        <h4>10.06.2021</h4>
+        <p>The <strong><a href="https://moonbeamawards.com/98/2021-winners-temp-5">2021 Moonbeam awards</a></strong> judging is complete, and <em>Love the Earth</em> and <em>Pets</em> both took home gold medals! <em>Love the Earth</em> won gold in the Environmental Issues category, and <em>Pets</em> won in the Animals/Pets Non-fiction category. What an honor!</p>
+    </div>
+</div>
 
-The **[2021 Moonbeam awards](https://moonbeamawards.com/98/2021-winners-temp-5)** judging is complete, and Love the Earth and Pets both took home gold medals! Love the Earth won gold in the Environmental Issues category, and Pets won in the Animals/Pets Non-fiction category. What an honor! 
+<div class="entry">
+    <img src="images/books/love_the_earth.png" alt="love the earth book" class="image-right" style="max-width:20%;">
+    <div class="text">
+        <h3>American Girl Doll News Interview</h3>
+        <h4>07.30.2021</h4>
+        <p>Sydney of American Girl Doll News interviewed me about <em>Love the Earth</em>. What an honor! Read it here: <strong><a href="https://www.americangirldollnews.com/post/interview-with-mel-hammond-author-of-love-the-earth-collaboration-with-american-girl">Interview with Mel Hammond: Author of Love the Earth</a></strong>.</p>
+    </div>
+</div>
 
-<img src="images/books/love_the_earth.png" alt="love the earth book" class="image-right " style="max-width:20%;">
-### American Girl Doll News Interview 
-#### 07.30.2021
+<div class="entry">
+    <img src="images/site/nppa_award.jpeg" alt="NPPA award logo" class="image-left" style="max-width:30%;">
+    <div class="text">
+        <h3><em>Love the Earth</em> wins NPPA award</h3>
+        <h4>04.13.2021</h4>
+        <p>The National Parenting Product Awards (NPPA) announced <em>Love the Earth</em> as a <strong><a href="https://www.nappaawards.com/product/love-the-earth-understanding-climate-change-speaking-up-for-solutions-and-living-an-earth-friendly-life/">2021 winner</a></strong>. One evaluator said: "My daughter was immediately drawn to the book and read it four times…. She suddenly became an environmentalist."</p>
+    </div>
+</div> 
 
-Sydney of American Girl Doll News interviewed me about Love the Earth. What an honor! Read it here: **[Interview with Mel Hammond: Author of Love the Earth](https://www.americangirldollnews.com/post/interview-with-mel-hammond-author-of-love-the-earth-collaboration-with-american-girl)**.
+<div class="entry">
+    <img src="images/site/colorado_350.png" alt="Colorado 350 logo" class="image-right" style="max-width:30%;">
+    <div class="text">
+        <h3><em>Love the Earth</em> review</h3>
+        <h4>02.02.2021</h4>
+        <p>Sam Killmeyer of 350 Colorado wrote a beautiful in-depth review of <em>Love the Earth</em>, which includes some quotes from me. It was so much fun to talk about the book with her! Find the article here: <strong><a href="https://350colorado.org/teaching-girls-to-love-the-earth-and-take-action-to-protect-it/">Teaching Girls To Love The Earth – And Take Action To Protect It!</a></strong>.</p>
+    </div>
+</div>
 
-<img src="images/site/nppa_award.jpeg" alt="NPPA award logo" class="image-left " style="max-width:30%;">
-### _Love the Earth_ wins NPPA award
-#### 04.13.2021
-
-The National Parenting Product Awards (NPPA) announced Love the Earth as a **[2021 winner](https://www.nappaawards.com/product/love-the-earth-understanding-climate-change-speaking-up-for-solutions-and-living-an-earth-friendly-life/)**. One evaluator said: “My daughter was immediately drawn to the book and read it four times…. She suddenly became an environmentalist.” 
-
-<img src="images/site/colorado_350.png" alt="Colorado 350 logo" class="image-right " style="max-width:30%;">
-### _Love the Earth_ review
-#### 02.02.2021
-Sam Killmeyer of 350 Colorado wrote a beautiful in-depth review of Love the Earth, which includes some quotes from me. It was so much fun to talk about the book with her! Find the article here: **[Teaching Girls To Love The Earth – And Take Action To Protect It!](https://350colorado.org/teaching-girls-to-love-the-earth-and-take-action-to-protect-it/)**
-
-<img src="images/site/gma_love_the_earth.jpg" alt="love the earth on GMA" class="image-left" style="max-width:50%;">
-### _Love the Earth_ released 
-#### 12.31.2020
-_Love the Earth_ appeared on the **[December 31, 2020 episode of Good Morning America](https://www.goodmorningamerica.com/living/video/gma-reveals-american-girls-2021-girl-year-74985384?fbclid=IwAR3B1Q4MHCyM7FJtvFQkO5I4MTWwpj0l7A5sWH1X8DhRF0E7nREnY9I7Hyo)**, as part of American Girl’s Girl of the Year 2021 reveal. Havana, Ember, and Azalea, young climate activists featured in _Love the Earth_, appeared virtually on the segment. Ember and Azalea even got to speak about their 250-mile bike ride to New York City last year, which helped raise money for solar panels at their school. 
+<div class="entry">
+    <img src="images/site/gma_love_the_earth.jpg" alt="love the earth on GMA" class="image-left" style="max-width:50%;">
+    <div class="text">
+        <h3><em>Love the Earth</em> released</h3>
+        <h4>12.31.2020</h4>
+        <p><em>Love the Earth</em> appeared on the <strong><a href="https://www.goodmorningamerica.com/living/video/gma-reveals-american-girls-2021-girl-year-74985384?fbclid=IwAR3B1Q4MHCyM7FJtvFQkO5I4MTWwpj0l7A5sWH1X8DhRF0E7nREnY9I7Hyo">December 31, 2020 episode of Good Morning America</a></strong>, as part of American Girl’s Girl of the Year 2021 reveal. Havana, Ember, and Azalea, young climate activists featured in <em>Love the Earth</em>, appeared virtually on the segment. Ember and Azalea even got to speak about their 250-mile bike ride to New York City last year, which helped raise money for solar panels at their school.</p>
+    </div>
+</div>
