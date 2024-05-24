@@ -3,7 +3,15 @@ title: In the News
 layout: page
 ---
 <div class="entry">
-    <img src="images/site/something_podcast.png" alt="Something Rather Than Nothing Podcast logo" class="image-right " style="max-width:20%;">
+    <img src="images/site/a_novel_ending.png" alt="a_novel_ending" class="image-right " style="max-width:35%;">
+    <div class="text">
+        <h3>Co-writing Chat</h3>
+        <h4>02.02.2024</h4>
+        <p>Teghan and I talked with my writing partner Kat Abbott about how to write and revise with a co-author. Check it out <a href="https://www.anovelending.com/episode40">here,</a> or wherever you get your podcasts.</p>
+    </div>
+</div>
+<div class="entry">
+    <img src="images/site/something_podcast.png" alt="Something Rather Than Nothing Podcast logo" class="image-left " style="max-width:20%;">
     <div class="text">
         <h3>Mel and Teghan Talk Philosophy</h3>
         <h4>04.18.2024</h4>
