@@ -11,7 +11,7 @@ Mel (and Teghan!) love to chat about our books. We'd love to visit your school, 
 Mel and Teghan love to talk. Invite us onto your show! 
 
 **Listen here:**
-- "Chat with Authors Mel and Teghan Hammond on Working and Revising with a Co-writer - [A Novel Ending Podcast](https://www.anovelending.com/episode40)
+- "Chat with Authors Mel and Teghan Hammond on Working and Revising with a Co-writer" - [A Novel Ending Podcast](https://www.anovelending.com/episode40)
 - "Mel and Teghan Hammond" - [Something (Rather Than Nothing) Podcast](https://podcasts.apple.com/us/podcast/mel-and-teghan-hammond/id1473313040?i=1000652795846)
 - "I Interviewed the American Girl Author Canceled by the Far Right" - [Savy Writes Books](https://youtu.be/pbcayXOV7Tc?si=J5zsrcT5ineM4Hji)
 - "Chapter 44: My Lord and Lady with Mel and Teghan Hammond" - [Jo's Boys: A Little Women Podcast](https://jos-boys-a-little-women-podcast.castos.com/episodes/chapter-44-my-lord-and-lady-with-mel-and-teghan-hammond) 
