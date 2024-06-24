@@ -3,6 +3,14 @@ title: In the News
 layout: page
 ---
 <div class="entry">
+    <img src="images/site/mel_authors_telling_stories.jpg" alt="Mel at the mic" class="image-left " style="max-width:35%;">
+    <div class="text">
+        <h3>Authors Telling Stories event in Lake Mills, WI</h3>
+        <h4>06.23.2024</h4>
+        <p>At the Authors Telling Stories event, eight Wisconsin authors told true stories from their lives that related to how they wrote their books. Mel told a story about how she and Teghan co-wrote LUCY, UNCENSORED. Read about the event and see some cool photos <a href="https://www.dailyunion.com/news/jefferson_county_area/story-slam-lake-mills-author-event-raises-funds-for-jefferson-county-literacy-council/article_f1d32cdc-3196-11ef-af63-db7e8b9b65ff.html">here!</a></p>
+    </div>
+</div>
+<div class="entry">
     <img src="images/site/a_novel_ending.png" alt="a_novel_ending" class="image-right " style="max-width:35%;">
     <div class="text">
         <h3>Co-writing Chat</h3>
@@ -11,7 +19,7 @@ layout: page
     </div>
 </div>
 <div class="entry">
-    <img src="images/site/something_podcast.png" alt="Something Rather Than Nothing Podcast logo" class="image-left " style="max-width:20%;">
+    <img src="images/site/something_podcast.png" alt="Something Rather Than Nothing Podcast logo" class="image-left " style="max-width:17%;">
     <div class="text">
         <h3>Mel and Teghan Talk Philosophy</h3>
         <h4>04.18.2024</h4>

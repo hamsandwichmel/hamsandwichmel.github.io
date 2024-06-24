@@ -29,15 +29,17 @@ Mel and Teghan love to talk. Invite us onto your show!
     </div>
 </div>
 
-<img src="images/site/authors_telling_stories.jpeg" alt="Authors Telling Stories: Meet, engage and be entertained by several local authors! Live music, literary trivia and more." class="image-right " style="max-width:25%;">
+<img src="images/site/mel_authors_telling_stories_full.jpg" alt="Mel at the mic" class="image-right " style="max-width:25%;">
 ### Book Events
 LUCY, UNCENSORED comes out October 8, 2024. We'll be out and about chatting about our book and signing copies!
 
 
 **Upcoming Events:**
-- June 23, 2024 12PM-3PM - [Authors Telling Stories](https://www.facebook.com/events/950950103423564/?ref=newsfeed), Lewis Station, Lake Mills, WI
 - TBD October, 2024 - Madison, Wisconsin
 - TBD October, 2024 - [Hyde Brothers Booksellers](https://hydebros.com/), Fort Wayne, Indiana
+
+**Past Events:**
+- June 23, 2024 12PM-3PM - [Authors Telling Stories](https://www.dailyunion.com/news/jefferson_county_area/story-slam-lake-mills-author-event-raises-funds-for-jefferson-county-literacy-council/article_f1d32cdc-3196-11ef-af63-db7e8b9b65ff.html), Lewis Station, Lake Mills, WI
 
 <img src="images/site/art_lit_lab.png" alt="a class posting on the ALL website" class="image-right " style="max-width:30%;">
 ### Workshops
