@@ -16,3 +16,7 @@ Lucy imagines college as more than a chance to party with other drama nerds and 
 While Lucy and Callie are on their campus tour, two kids from their high school make the typical transphobic comments Lucy’s gotten used to in her small town. She starts to worry that her dream school might end up being High School 2.0. What if she belongs somewhere else? Somewhere that she can truly have a fresh start?
 
 When Lucy finds a beautiful school with a great theater program on a list of the most LGBTQ+ friendly colleges, it seems like fate—except that the school is hundreds of miles away. And there’s something unexpected about it: it’s a women’s college. As far as she can tell, they’ve never admitted a trans woman. Will they let Lucy in? There’s only one way to find out: road trip!
+
+
+
+"[Provides honest insight into the life of a trans girl who’s fighting to live her truth.](https://www.kirkusreviews.com/book-reviews/mel-hammond/lucy-uncensored/)" --Kirkus Reviews
