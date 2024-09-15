@@ -5,6 +5,17 @@ layout: page
 
 Mel (and Teghan!) love to chat about our books. We'd love to visit your school, bookstore, book festival, conference, or podcast—in person or virtually! Reach out on the [Contact](https://www.melhammondbooks.com/contact) page to get in touch.  
 
+<img src="images/site/lake_city_books.jpeg" alt="entrance to Lake City Books" class="image-right " style="max-width:45%;">
+
+### Book Events
+LUCY, UNCENSORED comes out October 8, 2024. We'll be out and about chatting about our book and signing copies!
+
+**Upcoming Events:**
+- Tuesday, October 8, 2024, 5:00-7:00 PM - [Hyde Brothers Booksellers](https://hydebros.com/), Fort Wayne, Indiana
+- Friday, November 1, 2024 - 6:00-8:00 PM - [Lake City Books](https://lakecitybooks.com/), Madison, Wisconsin
+
+**Past Events:**
+- June 23, 2024 12PM-3PM - [Authors Telling Stories](https://www.dailyunion.com/news/jefferson_county_area/story-slam-lake-mills-author-event-raises-funds-for-jefferson-county-literacy-council/article_f1d32cdc-3196-11ef-af63-db7e8b9b65ff.html), Lewis Station, Lake Mills, WI
 
 <img src="images/site/savy_youtube.png" alt="Savy, Mel, and Teghan chat over Zoom" class="image-right " style="max-width:40%;">
 ### Podcasts & Interviews
@@ -29,24 +40,12 @@ Mel and Teghan love to talk. Invite us onto your show!
     </div>
 </div>
 
-<img src="images/site/mel_authors_telling_stories_full.jpg" alt="Mel at the mic" class="image-right " style="max-width:25%;">
-### Book Events
-LUCY, UNCENSORED comes out October 8, 2024. We'll be out and about chatting about our book and signing copies!
-
-
-**Upcoming Events:**
-- TBD October, 2024 - Madison, Wisconsin
-- TBD October, 2024 - [Hyde Brothers Booksellers](https://hydebros.com/), Fort Wayne, Indiana
-
-**Past Events:**
-- June 23, 2024 12PM-3PM - [Authors Telling Stories](https://www.dailyunion.com/news/jefferson_county_area/story-slam-lake-mills-author-event-raises-funds-for-jefferson-county-literacy-council/article_f1d32cdc-3196-11ef-af63-db7e8b9b65ff.html), Lewis Station, Lake Mills, WI
-
 <img src="images/site/art_lit_lab.png" alt="a class posting on the ALL website" class="image-right " style="max-width:30%;">
 ### Workshops
 Interested in learning to write for young people? Join an upcoming writing workshop! 
 
 **Upcoming Classes:**
-- Writing YA and Middle Grade Novels, December TBA 2024 - [Arts + Literature Labratory](https://artlitlab.org/), Madison, Wisconsin
+- Writing YA and Middle Grade Novels, December 14, 2024, 2:00-4:00 PM - [Arts + Literature Labratory](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/941852?source=semesters), Madison, Wisconsin
 
 Have you always dreamed of writing a novel for young readers? Is there an idea incubating in your brain? Join this class and bring your story to life!
 
