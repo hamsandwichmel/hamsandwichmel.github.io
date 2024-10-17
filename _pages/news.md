@@ -3,6 +3,15 @@ title: In the News
 layout: page
 ---
 <div class="entry">
+    <img src="images/site/pw_interview.jpeg" alt="Photos of Mel, Teghan, and Mags" class="image-right " style="max-width:35%;">
+    <div class="text">
+        <h3>In Conversation with Mel Hammond, Teghan Hammond, and Magdalene Visaggio</h3>
+        <h4>10.08.2024</h4>
+        <p>Mel and Teghan spoke with author Magdalene Visaggio about writing about navigating girlhood, their shared experiences of online hate, and the importance of portraying trans girls for young people today. Read the conversation <a href="https://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/96133-in-conversation-with-mel-hammond-teghan-hammond-and-magdalene-visaggio.html" target="_blank">here!</a></p>
+    </div>
+</div>
+
+<div class="entry">
     <img src="images/books/lucy_uncensored.jpeg" alt="LUCY, UNCENSORED book cover" class="image-right " style="max-width:15%;">
     <div class="text">
         <h3>Our First Review of LUCY, UNCENSORED</h3>
