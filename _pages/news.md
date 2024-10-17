@@ -3,7 +3,16 @@ title: In the News
 layout: page
 ---
 <div class="entry">
-    <img src="images/site/mel_authors_story_telling.jpg" alt="Mel at the mic" class="image-left " style="max-width:35%;">
+    <img src="images/books/lucy_uncensored.jpeg" alt="LUCY, UNCENSORED book cover" class="image-right " style="max-width:15%;">
+    <div class="text">
+        <h3>Our First Review of LUCY, UNCENSORED</h3>
+        <h4>08.03.2024</h4>
+        <p>Our first review is in, and it's a good one. Kirkus says that LUCY, UNCENSORED "provides honest insight into the life of a trans girl who's fighting to live her truth." Read the full review <a href="https://www.kirkusreviews.com/book-reviews/mel-hammond/lucy-uncensored/" target="_blank">here!</a></p>
+    </div>
+</div>
+
+<div class="entry">
+    <img src="images/site/mel_authors_story_telling.jpg" alt="Mel at the mic" class="image-left " style="max-width:55%;">
     <div class="text">
         <h3>Authors Telling Stories event in Lake Mills, WI</h3>
         <h4>06.23.2024</h4>

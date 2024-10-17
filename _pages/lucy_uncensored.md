@@ -6,7 +6,7 @@ layout: page
 
 *By Mel Hammond & Teghan Hammond*
 
-Coming October 8, 2024! Preorder the book [here](https://www.penguinrandomhouse.com/books/750113/lucy-uncensored-by-mel-hammond-and-teghan-hammond/).
+Published October 8, 2024! Order the book [here](https://www.penguinrandomhouse.com/books/750113/lucy-uncensored-by-mel-hammond-and-teghan-hammond/).
 
 
 **A road trip through gender identity, self-expression, and the thorny process of figuring out where you fit after high school as an out-and-proud transgender teen.**
@@ -20,3 +20,11 @@ When Lucy finds a beautiful school with a great theater program on a list of the
 
 
 "[Provides honest insight into the life of a trans girl who’s fighting to live her truth.](https://www.kirkusreviews.com/book-reviews/mel-hammond/lucy-uncensored/)" --Kirkus Reviews
+
+“An emotionally resonant story with a touching and uplifting conclusion that will leave readers satisfied and cheering for Lucy’s future.” --Booklist
+
+"[An essential read for those who identify as gender diverse as well as for teens struggling to find their spots as they think beyond high school.](https://www.slj.com/review/lucy-uncensored)" --School Library Journal
+
+"[I 'one more chaptered' myself until midnight.... This should be a YA, coming-of-age library staple.](https://www.instagram.com/p/DBCdEhBpIh2/)" --The Library Dreamer @library.dreamer
+
+"[I loved the honest representation of the ongoing process of coming out that Lucy faced.](https://www.instagram.com/p/DBHZBGCv4tJ/)" --Délice Harris @thehspbookshelf

@@ -5,28 +5,30 @@ layout: page
 
 Mel (and Teghan!) love to chat about our books. We'd love to visit your school, bookstore, book festival, conference, or podcast—in person or virtually! Reach out on the [Contact](https://www.melhammondbooks.com/contact) page to get in touch.  
 
-<img src="images/site/lake_city_books.jpeg" alt="entrance to Lake City Books" class="image-right " style="max-width:45%;">
+<img src="images/site/ft_wayne_launch.jpg" alt="Mel and Teghan holding their book at a bookshop" class="image-right " style="max-width:30%;">
 
 ### Book Events
-LUCY, UNCENSORED comes out October 8, 2024. We'll be out and about chatting about our book and signing copies!
+LUCY, UNCENSORED came out on October 8, 2024. We'll be out and about chatting about our book and signing copies!
 
 **Upcoming Events:**
-- Tuesday, October 8, 2024, 5:00-7:00 PM - [Hyde Brothers Booksellers](https://hydebros.com/), Fort Wayne, Indiana
-- Friday, November 1, 2024 - 6:00-8:00 PM - [Lake City Books](https://lakecitybooks.com/), Madison, Wisconsin
+- Friday, November 1, 2024 - 6-8 PM - [LUCY, UNCENSORED Launch Party](https://www.facebook.com/events/522726766819520) at [Lake City Books](https://www.lakecitybooks.com/), Madison, Wisconsin
 
 **Past Events:**
-- June 23, 2024 12PM-3PM - [Authors Telling Stories](https://www.dailyunion.com/news/jefferson_county_area/story-slam-lake-mills-author-event-raises-funds-for-jefferson-county-literacy-council/article_f1d32cdc-3196-11ef-af63-db7e8b9b65ff.html), Lewis Station, Lake Mills, WI
+- October 8, 2024 - [Hyde Brothers Booksellers](https://hydebros.com/), Fort Wayne, Indiana
+- June 23, 2024 - [Authors Telling Stories](https://www.dailyunion.com/news/jefferson_county_area/story-slam-lake-mills-author-event-raises-funds-for-jefferson-county-literacy-council/article_f1d32cdc-3196-11ef-af63-db7e8b9b65ff.html), Lewis Station, Lake Mills, WI
 
-<img src="images/site/savy_youtube.png" alt="Savy, Mel, and Teghan chat over Zoom" class="image-right " style="max-width:40%;">
+<img src="images/site/savy_youtube.png" alt="Mel and Teghan chatting with Savy on Zoom" class="image-right " style="max-width:40%;">
+
 ### Podcasts & Interviews
 Mel and Teghan love to talk. Invite us onto your show! 
 
 **Listen here:**
-- "Chat with Authors Mel and Teghan Hammond on Working and Revising with a Co-writer" - [A Novel Ending Podcast](https://www.anovelending.com/episode40)
-- "Mel and Teghan Hammond" - [Something (Rather Than Nothing) Podcast](https://podcasts.apple.com/us/podcast/mel-and-teghan-hammond/id1473313040?i=1000652795846)
-- "I Interviewed the American Girl Author Canceled by the Far Right" - [Savy Writes Books](https://youtu.be/pbcayXOV7Tc?si=J5zsrcT5ineM4Hji)
-- "Chapter 44: My Lord and Lady with Mel and Teghan Hammond" - [Jo's Boys: A Little Women Podcast](https://jos-boys-a-little-women-podcast.castos.com/episodes/chapter-44-my-lord-and-lady-with-mel-and-teghan-hammond) 
+- “Chat with Authors Mel and Teghan Hammond on Working and Revising with a Co-writer” - [A Novel Ending Podcast](https://www.anovelending.com/episode40)
+- “Mel and Teghan Hammond” - [Something (Rather Than Nothing) Podcast](https://podcasts.apple.com/us/podcast/mel-and-teghan-hammond/id1473313040?i=1000652795846)
+- “I Interviewed the American Girl Author Canceled by the Far Right” - [Savy Writes Books](https://youtu.be/pbcayXOV7Tc?si=J5zsrcT5ineM4Hji)
+- “Chapter 44: My Lord and Lady with Mel and Teghan Hammond” - [Jo’s Boys: A Little Women Podcast](https://jos-boys-a-little-women-podcast.castos.com/episodes/chapter-44-my-lord-and-lady-with-mel-and-teghan-hammond)
 
+<<<<<<< HEAD
 <div class="entry">
     <img src="images/site/school_visit.jpeg" alt="Mel presents Love the Earth in a classroom" class="image-right" style="max-width: 35%;">
     <div class="text">
@@ -39,13 +41,20 @@ Mel and Teghan love to talk. Invite us onto your show!
         </ul>
     </div>
 </div>
+=======
+>>>>>>> 655766c (added reviews, updated events page, changed language to reflect that the book is published)
 
 <img src="images/site/art_lit_lab.png" alt="a class posting on the ALL website" class="image-right " style="max-width:30%;">
+
 ### Workshops
 Interested in learning to write for young people? Join an upcoming writing workshop! 
 
 **Upcoming Classes:**
+<<<<<<< HEAD
 - Writing YA and Middle Grade Novels, December 14, 2024, 2:00-4:00 PM - [Arts + Literature Labratory](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/941852?source=semesters), Madison, Wisconsin
+=======
+- [Writing YA and Middle Grade Novels](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/941852?source=semesters), December 14, 2024, 2-4PM - [Arts + Literature Labratory](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/941852?source=semesters), Madison, Wisconsin
+>>>>>>> 655766c (added reviews, updated events page, changed language to reflect that the book is published)
 
 Have you always dreamed of writing a novel for young readers? Is there an idea incubating in your brain? Join this class and bring your story to life!
 
