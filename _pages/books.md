@@ -33,7 +33,7 @@ layout: page
         <a href="https://www.penguinrandomhouse.com/books/750113/lucy-uncensored-by-mel-hammond-and-teghan-hammond/" target="_blank">
             <img src="/images/books/lucy_uncensored.jpeg" alt="Lucy, Uncensored cover, featuring two teenage girls in front of a theater marquee">
         </a>
-        <p>YA fiction coming October 2024</p>
+        <p>YA fiction (Co-written with Teghan Hammond)</p>
     </div>
     <div class="grid-item">
         <h3>Love the Earth</h3>

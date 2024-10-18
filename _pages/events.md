@@ -28,7 +28,6 @@ Mel and Teghan love to talk. Invite us onto your show!
 - “I Interviewed the American Girl Author Canceled by the Far Right” - [Savy Writes Books](https://youtu.be/pbcayXOV7Tc?si=J5zsrcT5ineM4Hji)
 - “Chapter 44: My Lord and Lady with Mel and Teghan Hammond” - [Jo’s Boys: A Little Women Podcast](https://jos-boys-a-little-women-podcast.castos.com/episodes/chapter-44-my-lord-and-lady-with-mel-and-teghan-hammond)
 
-<<<<<<< HEAD
 <div class="entry">
     <img src="images/site/school_visit.jpeg" alt="Mel presents Love the Earth in a classroom" class="image-right" style="max-width: 35%;">
     <div class="text">
@@ -41,8 +40,6 @@ Mel and Teghan love to talk. Invite us onto your show!
         </ul>
     </div>
 </div>
-=======
->>>>>>> 655766c (added reviews, updated events page, changed language to reflect that the book is published)
 
 <img src="images/site/art_lit_lab.png" alt="a class posting on the ALL website" class="image-right " style="max-width:30%;">
 
@@ -50,11 +47,7 @@ Mel and Teghan love to talk. Invite us onto your show!
 Interested in learning to write for young people? Join an upcoming writing workshop! 
 
 **Upcoming Classes:**
-<<<<<<< HEAD
 - Writing YA and Middle Grade Novels, December 14, 2024, 2:00-4:00 PM - [Arts + Literature Labratory](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/941852?source=semesters), Madison, Wisconsin
-=======
-- [Writing YA and Middle Grade Novels](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/941852?source=semesters), December 14, 2024, 2-4PM - [Arts + Literature Labratory](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/941852?source=semesters), Madison, Wisconsin
->>>>>>> 655766c (added reviews, updated events page, changed language to reflect that the book is published)
 
 Have you always dreamed of writing a novel for young readers? Is there an idea incubating in your brain? Join this class and bring your story to life!
 
