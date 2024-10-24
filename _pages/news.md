@@ -3,6 +3,15 @@ title: In the News
 layout: page
 ---
 <div class="entry">
+    <img src="images/site/mad_magazine.jpg" alt="Cover of Lucy, Uncensored; Mel and Teghan talking on banana phones" class="image-left " style="max-width:35%;">
+    <div class="text">
+        <h3>Sisters' debut novel for young adults was co-written through prison bars</h3>
+        <h4>10.24.2024</h4>
+        <p>Mel and Teghan sat down for an interview with Maggie Ginsberg of Madison Magazine to chat about co-writing, story themes, trans joy, censorship, and more. Read the interview <a href="https://www.channel3000.com/madison-magazine/books-authors/sisters-debut-novel-for-young-adults-was-co-written-through-prison-bars/article_d4fd9eb8-9185-11ef-8fbd-470d0bb3d6b3.html" target="_blank">here!</a></p>
+    </div>
+</div>
+
+<div class="entry">
     <img src="images/site/pw_interview.jpeg" alt="Photos of Mel, Teghan, and Mags" class="image-right " style="max-width:35%;">
     <div class="text">
         <h3>In Conversation with Mel Hammond, Teghan Hammond, and Magdalene Visaggio</h3>
