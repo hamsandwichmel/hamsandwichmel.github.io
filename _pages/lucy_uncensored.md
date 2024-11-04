@@ -2,7 +2,7 @@
 title: Lucy, Uncensored
 layout: page
 ---
-<img src="/images/books/lucy_uncensored.jpeg" alt="Cover for Lucy, Uncensored, featuring two teenage girls in front of a theater marquee" class="image-right" style="max-width: 45%; height: auto; padding-bottom: 0;">
+<img src="/images/books/stack_of_books.jpg" alt="Cover for Lucy, Uncensored, featuring two teenage girls in front of a theater marquee" class="image-right" style="max-width: 45%; height: auto; padding-bottom: 0;">
 
 *By Mel Hammond & Teghan Hammond*
 

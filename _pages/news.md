@@ -3,6 +3,14 @@ title: In the News
 layout: page
 ---
 <div class="entry">
+    <img src="images/site/shelf_escape.png" alt="Mel and Teghan talking on banana phones" class="image-right " style="max-width:25%;">
+    <div class="text">
+        <h3>Interview with Mel & Teghan Hammond, Authors of Lucy, Uncensored</h3>
+        <h4>11.1.2024</h4>
+        <p>Shelf Escape helps book enthusiasts can come together to discover new reads, discuss their favorite books, and connect with authors. In this interview, Mel and Teghan discuss co-writing, our inspiration for the characters, the importance of trans representation, and more. Read the interview <a href="https://shelfescape.com/interview-with-mel-teghan-hammond-authors-of-lucy-uncensored/" target="_blank">here!</a></p>
+    </div>
+</div>
+<div class="entry">
     <img src="images/site/mad_magazine.jpg" alt="Cover of Lucy, Uncensored; Mel and Teghan talking on banana phones" class="image-left " style="max-width:35%;">
     <div class="text">
         <h3>Sisters' debut novel for young adults was co-written through prison bars</h3>

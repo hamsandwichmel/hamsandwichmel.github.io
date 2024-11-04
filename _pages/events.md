@@ -5,19 +5,19 @@ layout: page
 
 Mel (and Teghan!) love to chat about our books. We'd love to visit your school, bookstore, book festival, conference, or podcast—in person or virtually! Reach out on the [Contact](https://www.melhammondbooks.com/contact) page to get in touch.  
 
-<img src="images/site/ft_wayne_launch.jpg" alt="Mel and Teghan holding their book at a bookshop" class="image-right " style="max-width:30%;">
+<img src="images/site/lucy_launch_charles.jpg" alt="Mel and Teghan with Charles, wearing a Lucy, Uncensored t-shirt" class="image-center " style="max-width:50%;">
+
+<img src="images/site/launch_party.jpeg" alt="Mel and Teghan chatting at Lake City Books" class="image-right " style="max-width:25%;">
 
 ### Book Events
-LUCY, UNCENSORED came out on October 8, 2024. We'll be out and about chatting about our book and signing copies!
-
-**Upcoming Events:**
-- Friday, November 1, 2024 - 6-8 PM - [LUCY, UNCENSORED Launch Party](https://www.facebook.com/events/522726766819520) at [Lake City Books](https://www.lakecitybooks.com/), Madison, Wisconsin
+LUCY, UNCENSORED came out on October 8, 2024. We had fun chatting about our book and signing copies!
 
 **Past Events:**
+- Friday, November 1, 2024 - 6-8 PM - [LUCY, UNCENSORED Launch Party](https://www.facebook.com/events/522726766819520) at [Lake City Books](https://www.lakecitybooks.com/), Madison, Wisconsin
 - October 8, 2024 - [Hyde Brothers Booksellers](https://hydebros.com/), Fort Wayne, Indiana
 - June 23, 2024 - [Authors Telling Stories](https://www.dailyunion.com/news/jefferson_county_area/story-slam-lake-mills-author-event-raises-funds-for-jefferson-county-literacy-council/article_f1d32cdc-3196-11ef-af63-db7e8b9b65ff.html), Lewis Station, Lake Mills, WI
 
-<img src="images/site/savy_youtube.png" alt="Mel and Teghan chatting with Savy on Zoom" class="image-right " style="max-width:40%;">
+<img src="images/site/savy_youtube.png" alt="Mel and Teghan chatting with Savy on Zoom" class="image-right " style="max-width:30%;">
 
 ### Podcasts & Interviews
 Mel and Teghan love to talk. Invite us onto your show! 
