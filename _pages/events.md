@@ -5,7 +5,7 @@ layout: page
 
 Mel (and Teghan!) love to chat about our books. We'd love to visit your school, bookstore, book festival, conference, or podcast—in person or virtually! Reach out on the [Contact](https://www.melhammondbooks.com/contact) page to get in touch.  
 
-<img src="images/site/lucy_launch_charles.jpg" alt="Mel and Teghan with Charles, wearing a Lucy, Uncensored t-shirt" class="image-center " style="max-width:50%;">
+<img src="images/site/lucy_launch_charles.JPG" alt="Mel and Teghan with Charles, wearing a Lucy, Uncensored t-shirt" class="image-center " style="max-width:50%;">
 
 <img src="images/site/launch_party.jpeg" alt="Mel and Teghan chatting at Lake City Books" class="image-right " style="max-width:25%;">
 
