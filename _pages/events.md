@@ -12,6 +12,11 @@ Mel (and Teghan!) love to chat about our books. We'd love to visit your school, 
 ### Book Events
 LUCY, UNCENSORED came out on October 8, 2024. We had fun chatting about our book and signing copies!
 
+**Upcoming Events:**
+- Saturday, May 10, 2025 - 1-3 PM - Teghan signing books at [Half Price Books](https://www.hpb.com/store?storeid=HPB-102&showMap=true&horizontalView=true&isForm=true&y_source=1_MTExNTM4Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D), Madison, Wisconsin
+- Saturday, June 28, 2025 - Time TBD - Panel at Stoughton Pride, Stoughton, Wisconsin
+- September TBD 2025 - Mel and Teghan speaking at Kansas State University, Manhattan, Kansas 
+
 **Past Events:**
 - Friday, November 1, 2024 - 6-8 PM - [LUCY, UNCENSORED Launch Party](https://www.facebook.com/events/522726766819520) at [Lake City Books](https://www.lakecitybooks.com/), Madison, Wisconsin
 - October 8, 2024 - [Hyde Brothers Booksellers](https://hydebros.com/), Fort Wayne, Indiana
@@ -41,14 +46,11 @@ Mel and Teghan love to talk. Invite us onto your show!
     </div>
 </div>
 
-<img src="images/site/art_lit_lab.png" alt="a class posting on the ALL website" class="image-right " style="max-width:30%;">
+<img src="images/site/all_class.jpg" alt="Mel teaching a class at the Arts + Literature Labratory" class="image-right " style="max-width:35%;">
 
 ### Workshops
 Interested in learning to write for young people? Join an upcoming writing workshop! 
 
 **Upcoming Classes:**
-- Writing YA and Middle Grade Novels, December 14, 2024, 2:00-4:00 PM - [Arts + Literature Labratory](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/941852?source=semesters), Madison, Wisconsin
-
-Have you always dreamed of writing a novel for young readers? Is there an idea incubating in your brain? Join this class and bring your story to life!
-
+- Writing YA and Middle Grade Novels, Fall TBD 2025 - [Arts + Literature Labratory](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/941852?source=semesters), Madison, Wisconsin
 
