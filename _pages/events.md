@@ -52,5 +52,4 @@ Mel and Teghan love to talk. Invite us onto your show!
 Interested in learning to write for young people? Join an upcoming writing workshop! 
 
 **Upcoming Classes:**
-- Writing YA and Middle Grade Novels, Fall TBD 2025 - [Arts + Literature Labratory](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/941852?source=semesters), Madison, Wisconsin
-
+- Writing YA and Middle Grade Novels, Wednesdays 6-8 PM, September 24-October 15, 2025 - [Arts + Literature Labratory](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/941852?source=semesters), Madison, Wisconsin. To sign up, email Ceara at ceara@artlitlab.org.

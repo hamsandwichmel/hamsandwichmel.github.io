@@ -3,19 +3,13 @@ title: In the News
 layout: page
 ---
 <div class="entry">
-    <img src="images/site/teghan_home.JPG" alt="Mel and Teghan hugging in front of rainbow streamers" class="image-left" style="max-width:24%;">
+    <img src="images/site/teghan_home.JPG" alt="Mel and Teghan hugging in front of rainbow streamers" class="image-right" style="max-width:24%;">
     <div class="text">
         <h3>Guest post: SLJ Teen Librarian Toolbox blog</h3>
         <h4>11.13.2024</h4>
         <p>Teen Librarian Toolbox is a School Library Journal blog with the mission of helping teen librarians foster a community of professional development and resource sharing. Teghan and Mel wrote a guest post for the blog about our co-writing experience to help more teen librarians discover LUCY, UNCENSORED. Read the blog post here: <a href="https://teenlibrariantoolbox.com/2024/11/13/co-writing-a-story-of-trans-joy-across-a-barbed-wire-fence-a-guest-post-by-teghan-hammond-and-mel-hammond/" target="_blank">Co-Writing a Story of Trans Joy Across a Barbed Wire Fence</a></p>
     </div>
-<div class="entry">
-    <img src="images/site/shelf_escape.png" alt="Mel and Teghan talking on banana phones" class="image-right " style="max-width:25%;">
-    <div class="text">
-        <h3>Interview with Mel & Teghan Hammond, Authors of Lucy, Uncensored</h3>
-        <h4>11.1.2024</h4>
-        <p>Shelf Escape helps book enthusiasts can come together to discover new reads, discuss their favorite books, and connect with authors. In this interview, Mel and Teghan discuss co-writing, our inspiration for the characters, the importance of trans representation, and more. Read the interview <a href="https://shelfescape.com/interview-with-mel-teghan-hammond-authors-of-lucy-uncensored/" target="_blank">here!</a></p>
-    </div>
+
 </div>
 <div class="entry">
     <img src="images/site/mad_magazine.jpg" alt="Cover of Lucy, Uncensored; Mel and Teghan talking on banana phones" class="image-left " style="max-width:35%;">
