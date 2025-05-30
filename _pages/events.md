@@ -13,11 +13,12 @@ Mel (and Teghan!) love to chat about our books. We'd love to visit your school, 
 LUCY, UNCENSORED came out on October 8, 2024. We had fun chatting about our book and signing copies!
 
 **Upcoming Events:**
-- Saturday, May 10, 2025 - 1-3 PM - Teghan signing books at [Half Price Books](https://www.hpb.com/store?storeid=HPB-102&showMap=true&horizontalView=true&isForm=true&y_source=1_MTExNTM4Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D), Madison, Wisconsin
-- Saturday, June 28, 2025 - Time TBD - Panel at Stoughton Pride, Stoughton, Wisconsin
-- September TBD 2025 - Mel and Teghan speaking at Kansas State University, Manhattan, Kansas 
+- Wednesday, June 11, 2025 - 3-4 PM Eastern (2-3 PM Central) - [Virtual Author Teen Q&A at the Thomas Crane Public Library](https://thomascranelibrary.assabetinteractive.com/calendar/teen-meet-the-authors-of-lucy-uncensored/?fbclid=IwY2xjawKmphdleHRuA2FlbQIxMABicmlkETFidTl2NUxRSFJ5R3BhS2toAR4NCMXbKtwnWdRIOajMxw23vchx-qAkaGO4wxneomwkBVW164xXhhyOpYEcMg_aem_JC7EiholMQzNQjLbdNWuBg), Quincy, MA and Virtual
+- Saturday, June 28, 2025 - 12:45-1:30 - LGBTQIA+ Lives Panel at Stoughton Community Pride Fest, East Side Park, Stoughton, Wisconsin
+- September 15, 2025 - Mel and Teghan speaking at Kansas State University, Manhattan, Kansas 
 
 **Past Events:**
+- Saturday, May 10, 2025 - 1-3 PM - Teghan signing books at [Half Price Books](https://www.hpb.com/store?storeid=HPB-102&showMap=true&horizontalView=true&isForm=true&y_source=1_MTExNTM4Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D), Fort Wayne, IN
 - Friday, November 1, 2024 - 6-8 PM - [LUCY, UNCENSORED Launch Party](https://www.facebook.com/events/522726766819520) at [Lake City Books](https://www.lakecitybooks.com/), Madison, Wisconsin
 - October 8, 2024 - [Hyde Brothers Booksellers](https://hydebros.com/), Fort Wayne, Indiana
 - June 23, 2024 - [Authors Telling Stories](https://www.dailyunion.com/news/jefferson_county_area/story-slam-lake-mills-author-event-raises-funds-for-jefferson-county-literacy-council/article_f1d32cdc-3196-11ef-af63-db7e8b9b65ff.html), Lewis Station, Lake Mills, WI
