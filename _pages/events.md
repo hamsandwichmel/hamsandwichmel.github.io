@@ -18,12 +18,9 @@ Interested in learning to write for young people? Join an upcoming writing works
 <img src="images/site/launch_party.jpeg" alt="Mel and Teghan chatting at Lake City Books" class="image-right " style="max-width:25%;">
 
 ### Book Events
-LUCY, UNCENSORED came out on October 8, 2024. We had fun chatting about our book and signing copies!
-
-**Upcoming Events:**
-- September 15, 2025 - Mel and Teghan speaking at Kansas State University, Manhattan, Kansas 
 
 **Past Events:**
+- Monday, September 15, 2025 - 7 PM - [Mel and Teghan spoke at Kansas State University](https://www.facebook.com/share/p/1EXPU2pgyr/) Manhattan, Kansas
 - Saturday, June 28, 2025 - 12:45-1:30 - LGBTQIA+ Lives Panel at Stoughton Community Pride Fest, East Side Park, Stoughton, Wisconsin
 - Wednesday, June 11, 2025 - 3-4 PM Eastern (2-3 PM Central) - [Virtual Author Teen Q&A at the Thomas Crane Public Library](https://thomascranelibrary.assabetinteractive.com/calendar/teen-meet-the-authors-of-lucy-uncensored/?fbclid=IwY2xjawKmphdleHRuA2FlbQIxMABicmlkETFidTl2NUxRSFJ5R3BhS2toAR4NCMXbKtwnWdRIOajMxw23vchx-qAkaGO4wxneomwkBVW164xXhhyOpYEcMg_aem_JC7EiholMQzNQjLbdNWuBg), Quincy, MA and Virtual
 - Saturday, May 10, 2025 - 1-3 PM - Teghan signing books at [Half Price Books](https://www.hpb.com/store?storeid=HPB-102&showMap=true&horizontalView=true&isForm=true&y_source=1_MTExNTM4Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D), Fort Wayne, IN
