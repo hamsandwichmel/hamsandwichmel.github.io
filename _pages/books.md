@@ -5,8 +5,8 @@ layout: page
 
 <style>
     .section-title {
-        font-size: 2em;
-        margin-top: 2em;
+        font-size: 1.5em;
+        margin-top: 0.5em;
         margin-bottom: 0.5em;
         text-align: left;
         border-bottom: 2px solid #ccc;
