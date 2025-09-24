@@ -3,7 +3,7 @@ title: In the News
 layout: page
 ---
 <div class="entry">
-    <img src="images/site/YALSA_review.PNG" alt="Lucy, Uncensored cover with the words The Hub Selected Lists - Best Fiction for YA Featured Title" class="image-left" style="max-width:40%;">
+    <img src="images/site/YALSA_review.png" alt="Lucy, Uncensored cover with the words The Hub Selected Lists - Best Fiction for YA Featured Title" class="image-left" style="max-width:40%;">
     <div class="text">
         <h3>YALSA Best Fiction for Young Adults Featured Review</h3>
         <h4>09.08.2025</h4>
