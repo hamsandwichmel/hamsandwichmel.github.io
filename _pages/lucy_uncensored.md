@@ -25,6 +25,8 @@ When Lucy finds a beautiful school with a great theater program on a list of the
 
 "[An essential read for those who identify as gender diverse as well as for teens struggling to find their spots as they think beyond high school.](https://www.slj.com/review/lucy-uncensored)" --School Library Journal
 
+"[At only about 250 pages, Lucy, Uncensored is packed with (theater) drama, but Lucy’s happiness takes center stage. Lucy encounters transphobic jerks, navigates her relationship with her dad, and experiences exhaustion in her journey as an advocate—but she also experiences joy and self-fulfillment.](https://www.yalsa.ala.org/thehub/2025/09/08/best-fiction-for-young-adults-bfya2026-featured-review-lucy-uncensored-by-mel-hammond-and-teghan-hammond/?fbclid=IwY2xjawNA8b5leHRuA2FlbQIxMQBicmlkETEycjlSb0c2bVJhQ1VoTjBXAR7ckkiw7RyI4V-M2B3G1EDDd4vOrDUykuJ49RmYAzJRCATYA1PY1h4nW2s65A_aem_9y05D9UpKycjdgl_Ci9JhQ)" --The Hub, Best Fiction for YA Featured Title
+
 "[I 'one more chaptered' myself until midnight.... This should be a YA, coming-of-age library staple.](https://www.instagram.com/p/DBCdEhBpIh2/)" --The Library Dreamer @library.dreamer
 
 "[I loved the honest representation of the ongoing process of coming out that Lucy faced.](https://www.instagram.com/p/DBHZBGCv4tJ/)" --Délice Harris @thehspbookshelf
