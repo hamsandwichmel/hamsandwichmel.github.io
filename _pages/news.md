@@ -3,6 +3,13 @@ title: In the News
 layout: page
 ---
 <div class="entry">
+    <img src="images/site/our_lives.jpg" alt="The words Our Lives on a rainbow background" class="image-right" style="max-width:20%;">
+    <div class="text">
+        <h3>LUCY, UNCENSORED featured in Our Lives Wisconsin</h3>
+        <h4>09.08.2025</h4>
+        <p>"This laugh-out-loud funny Young Adult gem will charm your socks off with a blend of Midwestern sass mixed with tender, coming-of-age queer realness. Sibling co-authors Mel and Teghan Hammond, Midwesterners themselves, have a way of pulling you in and making you feel like you are more than just a reader." Thanks to writer Elise Filka and Our Lives Wisconsin for this great review! Read the full story here: <a href="https://ourliveswisconsin.com/article/book-review-lucy-uncensored/?fbclid=IwY2xjawNSnz9leHRuA2FlbQIxMQABHiCVxdC1QzDtA003FRYxcFaA5s1UtVWWnYRjs49wGcvlgNRyPNI0JJPKZUFV_aem_3xhvbS_VkihGP1cIkez5lg" target="_blank">Book Review: Lucy, Uncensored</a></p>
+    </div>
+<div class="entry">
     <img src="images/site/YALSA_review.png" alt="Lucy, Uncensored cover with the words The Hub Selected Lists - Best Fiction for YA Featured Title" class="image-left" style="max-width:40%;">
     <div class="text">
         <h3>YALSA Best Fiction for Young Adults Featured Review</h3>

@@ -21,11 +21,13 @@ When Lucy finds a beautiful school with a great theater program on a list of the
 
 "[Provides honest insight into the life of a trans girl who’s fighting to live her truth.](https://www.kirkusreviews.com/book-reviews/mel-hammond/lucy-uncensored/)" --Kirkus Reviews
 
-“An emotionally resonant story with a touching and uplifting conclusion that will leave readers satisfied and cheering for Lucy’s future.” --Booklist
+“[An emotionally resonant story with a touching and uplifting conclusion that will leave readers satisfied and cheering for Lucy’s future.”](https://www.booklistonline.com/products/9797199) --Booklist
 
 "[An essential read for those who identify as gender diverse as well as for teens struggling to find their spots as they think beyond high school.](https://www.slj.com/review/lucy-uncensored)" --School Library Journal
 
 "[At only about 250 pages, Lucy, Uncensored is packed with (theater) drama, but Lucy’s happiness takes center stage. Lucy encounters transphobic jerks, navigates her relationship with her dad, and experiences exhaustion in her journey as an advocate—but she also experiences joy and self-fulfillment.](https://www.yalsa.ala.org/thehub/2025/09/08/best-fiction-for-young-adults-bfya2026-featured-review-lucy-uncensored-by-mel-hammond-and-teghan-hammond/?fbclid=IwY2xjawNA8b5leHRuA2FlbQIxMQBicmlkETEycjlSb0c2bVJhQ1VoTjBXAR7ckkiw7RyI4V-M2B3G1EDDd4vOrDUykuJ49RmYAzJRCATYA1PY1h4nW2s65A_aem_9y05D9UpKycjdgl_Ci9JhQ)" --The Hub, Best Fiction for YA Featured Title
+
+"[This laugh-out-loud funny Young Adult gem will charm your socks off with a blend of Midwestern sass mixed with tender, coming-of-age queer realness. Sibling co-authors Mel and Teghan Hammond, Midwesterners themselves, have a way of pulling you in and making you feel like you are more than just a reader.](https://ourliveswisconsin.com/article/book-review-lucy-uncensored/?fbclid=IwY2xjawNSnz9leHRuA2FlbQIxMQABHiCVxdC1QzDtA003FRYxcFaA5s1UtVWWnYRjs49wGcvlgNRyPNI0JJPKZUFV_aem_3xhvbS_VkihGP1cIkez5lg)" --Our Lives Wisconsin
 
 "[I 'one more chaptered' myself until midnight.... This should be a YA, coming-of-age library staple.](https://www.instagram.com/p/DBCdEhBpIh2/)" --The Library Dreamer @library.dreamer
 
