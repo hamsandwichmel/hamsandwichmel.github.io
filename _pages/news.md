@@ -2,20 +2,23 @@
 title: In the News
 layout: page
 ---
+
 <div class="entry">
-    <img src="images/site/our_lives.jpg" alt="The words Our Lives on a rainbow background" class="image-right" style="max-width:20%;">
-    <div class="text">
-        <h3>LUCY, UNCENSORED featured in Our Lives Wisconsin</h3>
-        <h4>09.08.2025</h4>
-        <p>"This laugh-out-loud funny Young Adult gem will charm your socks off with a blend of Midwestern sass mixed with tender, coming-of-age queer realness. Sibling co-authors Mel and Teghan Hammond, Midwesterners themselves, have a way of pulling you in and making you feel like you are more than just a reader." Thanks to writer Elise Filka and Our Lives Wisconsin for this great review! Read the full story here: <a href="https://ourliveswisconsin.com/article/book-review-lucy-uncensored/?fbclid=IwY2xjawNSnz9leHRuA2FlbQIxMQABHiCVxdC1QzDtA003FRYxcFaA5s1UtVWWnYRjs49wGcvlgNRyPNI0JJPKZUFV_aem_3xhvbS_VkihGP1cIkez5lg" target="_blank">Book Review: Lucy, Uncensored</a></p>
-    </div>
-<div class="entry">
-    <img src="images/site/YALSA_review.png" alt="Lucy, Uncensored cover with the words The Hub Selected Lists - Best Fiction for YA Featured Title" class="image-left" style="max-width:40%;">
+    <img src="images/site/YALSA_review.png" alt="Lucy, Uncensored cover with the words The Hub Selected Lists - Best Fiction for YA Featured Title" class="image-right" style="max-width:40%;">
     <div class="text">
         <h3>YALSA Best Fiction for Young Adults Featured Review</h3>
         <h4>09.08.2025</h4>
         <p>"Lucy, Uncensored is packed with (theater) drama, but Lucy’s happiness takes center stage. Lucy encounters transphobic jerks, navigates her relationship with her dad, and experiences exhaustion in her journey as an advocate—but she also experiences joy and self-fulfillment." This review comes from The Hub, a teen collections blog for YALSA (the Young Adult Library Services Association), as part of their Best Fiction for Young Adults series. Read the full review here: <a href="https://www.yalsa.ala.org/thehub/2025/09/08/best-fiction-for-young-adults-bfya2026-featured-review-lucy-uncensored-by-mel-hammond-and-teghan-hammond/?fbclid=IwY2xjawNA8b5leHRuA2FlbQIxMQBicmlkETEycjlSb0c2bVJhQ1VoTjBXAR7ckkiw7RyI4V-M2B3G1EDDd4vOrDUykuJ49RmYAzJRCATYA1PY1h4nW2s65A_aem_9y05D9UpKycjdgl_Ci9JhQ" target="_blank">Best Fiction for Young Adults Featured Review: Lucy, Uncensored by Mel Hammond and Teghan Hammond</a></p>
     </div>
+
+<div class="entry">
+    <img src="images/site/our_lives.jpg" alt="The words Our Lives on a rainbow background" class="image-left" style="max-width:25%;">
+    <div class="text">
+        <h3>LUCY, UNCENSORED featured in Our Lives Wisconsin</h3>
+        <h4>09.01.2025</h4>
+        <p>"This laugh-out-loud funny Young Adult gem will charm your socks off with a blend of Midwestern sass mixed with tender, coming-of-age queer realness. Sibling co-authors Mel and Teghan Hammond, Midwesterners themselves, have a way of pulling you in and making you feel like you are more than just a reader." Thanks to writer Elise Filka and Our Lives Wisconsin for this great review! Read the full story here: <a href="https://ourliveswisconsin.com/article/book-review-lucy-uncensored/?fbclid=IwY2xjawNSnz9leHRuA2FlbQIxMQABHiCVxdC1QzDtA003FRYxcFaA5s1UtVWWnYRjs49wGcvlgNRyPNI0JJPKZUFV_aem_3xhvbS_VkihGP1cIkez5lg" target="_blank">Book Review: Lucy, Uncensored</a></p>
+    </div>
+
 <div class="entry">
     <img src="images/site/teghan_home.JPG" alt="Mel and Teghan hugging in front of rainbow streamers" class="image-right" style="max-width:24%;">
     <div class="text">
