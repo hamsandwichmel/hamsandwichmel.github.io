@@ -183,7 +183,12 @@ Mel (and Teghan!) love to chat about our books. We'd love to visit your school, 
 Interested in learning to write for young people? Join an upcoming writing workshop! 
 
 **Upcoming Classes:**
-- [Writing YA and Middle Grade Novels](https://www.hisawyer.com/arts-literature-laboratory/schedules/activity-set/1561255), Wednesdays 6-8 PM, September 24-October 15, 2025 - Arts + Literature Laboratory, Madison, Wisconsin. 
+- Writing YA and Middle Grade Novels, Tuesdays 6-8 PM, May 5-26, 2026 - [Arts + Literature Laboratory](https://artlitlab.org/), Madison, Wisconsin. Link available in early 2026!
+
+**Past Classes:**
+- Writing YA and Middle Grade Novels, Wednesdays 6-8 PM, September 24-October 15, 2025 - [Arts + Literature Laboratory](https://artlitlab.org/), Madison, Wisconsin. 
+- Writing YA and Middle Grade Novels, Tuesdays 6-8 PM, February 4-24, 2025 - [Arts + Literature Laboratory](https://artlitlab.org/), Madison, Wisconsin. 
+- Writing YA and Middle Grade Novels, Saturday, December 14, 2-4 PM - [Arts + Literature Laboratory](https://artlitlab.org/), Madison, Wisconsin. 
 
 ### Book Events
 
