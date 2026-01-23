@@ -12,3 +12,5 @@ Today, **Teghan** lives in northern Indiana, where she drinks excessive amounts 
 
 
 P.S. We're represented by Tracey Adams at [Adams Literary](http://www.adamsliterary.com/).
+
+P.P.S. Mel does developmental editing for novels, too. Check her out on [Reedsy](https://reedsy.com/hammond-mel) or [The Inkwell](https://www.theinkwellediting.com/home). 
