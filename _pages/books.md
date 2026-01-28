@@ -49,11 +49,11 @@ layout: page
         <p>YA fiction (Co-written with Teghan Hammond)</p>
     </div>
     <div class="grid-item">
-        <h3>Ro Versus</h3>
+        <h3>Where the Girls Are Kept</h3>
         <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTG0VWUglBeT6Wu3AkxeKUnBrrwt9rEig4w&s" target="_blank">
-            <img src="/images/books/coming_soon_rainbow.png" alt="coming soon book cover">
+            <img src="/images/books/coming_soon_spooky.png" alt="coming soon book cover">
         </a>
-        <p>YA Horror, coming Spring 2027</p>
+        <p>YA Horror, coming Summer 2027</p>
     </div>
 </div>
 
