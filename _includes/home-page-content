@@ -2,16 +2,27 @@
     <div class="container">
         <div class="row gtr-150">
             <div class="col-12 col-12-medium">
-                <!-- Centered image -->
+                <!-- Centered content -->
                 <div style="text-align: center;">
-                    <figure>
-                        <figcaption style="padding-top: 1.0em;">
-                            Mel is an award-winning author of fiction and nonfiction for kids and young adults. <br>She co-wrote her latest book, <span style="font-style: italic;">Lucy, Uncensored</span>, with her sister, Teghan Hammond. You can order it <a href="https://www.penguinrandomhouse.com/books/750113/lucy-uncensored-by-mel-hammond-and-teghan-hammond/">here</a>.
-                        </figcaption>
-                        <a href="https://www.penguinrandomhouse.com/books/750113/lucy-uncensored-by-mel-hammond-and-teghan-hammond/" target="_blank">
-                            <img src="/images/books/lucy_uncensored.jpeg" alt="Lucy, Uncensored cover, featuring two teenage girls standing in front of a theater marquee" style="max-width: 40%; height: auto; margin: 20px 0;">
-                        </a>
-                    </figure>
+                    <p style="padding-top: 1.0em;">
+                        Mel is an award-winning author of fiction and nonfiction for kids and young adults. 
+                    </p>
+                    
+                    <!-- Book images side by side -->
+                    <div style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
+                        <figure style="margin: 0;">
+                            <a href="https://www.penguinrandomhouse.com/books/750113/lucy-uncensored-by-mel-hammond-and-teghan-hammond/" target="_blank">
+                                <img src="/images/books/lucy_uncensored.jpeg" alt="Lucy, Uncensored cover, featuring two teenage girls standing in front of a theater marquee" style="max-width: 250px; width: 100%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;">
+                            </a>
+                        </figure>
+                        
+                        <figure style="margin: 0;">
+                            <a href="https://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/99599-rights-report-week-of-february-2-2026.html" target="_blank">
+                                <img src="/images/books/the_girls.png" alt="A rights report on a haunted house background" style="max-width: 300px; width: 100%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;">
+                            </a>
+                        </figure>
+                    </div>
+                    
                     <p style="margin-top: 1em;">Sign up to receive updates about my books and events!</p>
                     {% include newsletter-form %}
                 </div>
@@ -19,3 +30,17 @@
         </div>
     </div>
 </section>
+
+<style>
+    /* Add hover effect for book covers */
+    figure a img:hover {
+        transform: translateY(-5px);
+    }
+    
+    /* Ensure images stack nicely on mobile */
+    @media (max-width: 600px) {
+        figure a img {
+            max-width: 200px !important;
+        }
+    }
+</style>

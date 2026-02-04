@@ -2,7 +2,8 @@
     <div class="topnav">
             <img src="images/logo/mel_logo.png" alt="Mel HAMMOND BOOKS" class=image-logo>
             <a href="{{"/index" | relative_url}}">Home</a>
-            <a href="{{"/lucy_uncensored" | relative_url}}">Lucy, Uncensored</a>
+             <a href="{{"/where_the_girls_are_kept" | relative_url}}">Where the Girls Are Kept</a>
+             <a href="{{"/lucy_uncensored" | relative_url}}">Lucy, Uncensored</a>
             <a href="{{"/books" | relative_url}}">All Books</a>
             <a href="{{"/about" | relative_url}}">About</a>
             <a href="{{"/news" | relative_url}}">In the News</a>
@@ -14,6 +15,7 @@
             <div class="bar3"></div>
             <div id="drop-menu" class="ham-drop-content">
                 <a href="{{"/index" | relative_url}}">Home</a>
+                <a href="{{"/where_the_girls_are_kept" | relative_url}}">Where the Girls Are Kept</a>
                 <a href="{{"/lucy_uncensored" | relative_url}}">Lucy, Uncensored</a>
                 <a href="{{"/books" | relative_url}}">All Books</a>
                 <a href="{{"/about" | relative_url}}">About</a>
