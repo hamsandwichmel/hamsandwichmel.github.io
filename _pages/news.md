@@ -2,7 +2,13 @@
 title: In the News
 layout: page
 ---
-
+<div class="entry">
+    <img src="images/site/girls_announcement.png" alt="A rights report on a haunted house background" class="image-left" style="max-width:35%;">
+    <div class="text">
+        <h3>WHERE THE GIRLS ARE KEPT, Coming Summer 2027</h3>
+        <h4>02.03.2026</h4>
+        <p>From <a href="https://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/99599-rights-report-week-of-february-2-2026.html" target="_blank"> Publishers Weekly:</a> "Marisa DiNovis at Knopf has bought Where the Girls Are Kept by Mel Hammond, a YA reimagining of Rosemary's Baby. Artist Rowan welcomes the chance to escape her dumpster fire of a junior year when her mom inherits her aunt's Victorian fixer-upper in Arcana Falls, Ohio—but life in this sleepy town gets complicated as Rowan encounters an illegal birth control ban, a possible multi-level marketing cult, and an unexpected crush. Publication is slated for summer 2027; Tracey Adams at Adams Literary did the deal for North American rights."</p>
+    </div>
 <div class="entry">
     <img src="images/site/YALSA_review.png" alt="Lucy, Uncensored cover with the words The Hub Selected Lists - Best Fiction for YA Featured Title" class="image-right" style="max-width:40%;">
     <div class="text">
