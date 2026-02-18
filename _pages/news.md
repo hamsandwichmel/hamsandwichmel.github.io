@@ -3,7 +3,7 @@ title: In the News
 layout: page
 ---
 <div class="entry">
-    <img src="images/site/girls_announcement.png" alt="A rights report on a haunted house background" class="image-left" style="max-width:35%;">
+    <img src="images/site/girls_announcement.png" alt="A rights report on a haunted house background" class="image-left" style="max-width:30%;">
     <div class="text">
         <h3>WHERE THE GIRLS ARE KEPT, Coming Summer 2027</h3>
         <h4>02.03.2026</h4>

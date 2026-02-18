@@ -94,7 +94,20 @@ layout: page
         <a href="https://www.amazon.sg/Rebel-Girls-Stem-Stars-Science/dp/B0CKMDDP95" target="_blank">
             <img src="/images/books/Rebel_Girls_Stem_Stars.jpg" alt="Rebel Girls book cover">
         </a>
-      
+  </div>
+    <div class="grid-item">
+        <h3>Rebel Girls Build the Future</h3>
+        <a href="https://a.co/d/0hr6RU6j" target="_blank">
+            <img src="/images/books/Rebel_Girls_build_the_future.jpg" alt="Rebel Girls book cover">
+        </a>
+
+   </div>
+    <div class="grid-item">
+        <h3>Women's Professional Basketball</h3>
+        <a href="https://a.co/d/0iJrxGIX" target="_blank">
+            <img src="/images/books/basketball.jpg" alt="Ballet book cover">
+        </a>
+       
     </div>
     <div class="grid-item">
         <h3>Spotlight on Ballet</h3>
