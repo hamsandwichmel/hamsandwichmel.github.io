@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 # About Mel
-<img src="/images/site/mel_headshot.jpeg" alt="Mel smiling with a rainbow background" class="image-left" style="max-width: 35%; height: auto;">
+<img src="/images/site/mel_headshot_2026.JPG" alt="Mel smiling with books in the background" class="image-left" style="max-width: 35%; height: auto;">
 **Mel Hammond** is an award-winning author of fiction and nonfiction for kids and young adults. Whether she's writing about murderous multi-level marketing cults, road trip shenanigans, or climate change activism, she likes to keep things a little silly. She lives in Madison, Wisconsin, where she writes in a tangerine-orange office with two feline assistants. 
 
 P.S. My agent is Tracey Adams at [Adams Literary](http://www.adamsliterary.com/).
