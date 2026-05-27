@@ -3,6 +3,13 @@ title: In the News
 layout: page
 ---
 <div class="entry">
+    <img src="images/site/women_in_horror.jpg" alt="the words Women in Horror over pink lips" class="image-right" style="max-width:20%;">
+    <div class="text">
+        <h3>Women in Horror Month Interview</h3>
+        <h4>02.07.2026</h4>
+        <p>To celebrate Women in Horror Month, Mel did an interview with genre-bending author C.M. Rosens about her journey to writing horror. Check it out <a href="https://cmrosens.com/women-in-horror-month/mel-hammond/" target="_blank"> here!</a></p>
+    </div>
+<div class="entry">
     <img src="images/site/girls_announcement.png" alt="A rights report on a haunted house background" class="image-left" style="max-width:30%;">
     <div class="text">
         <h3>WHERE THE GIRLS ARE KEPT, Coming Summer 2027</h3>

@@ -4,7 +4,7 @@ layout: page
 ---
 # About Mel
 <img src="/images/site/mel_headshot_2026.JPG" alt="Mel smiling with books in the background" class="image-left" style="max-width: 35%; height: auto;">
-**Mel Hammond** is an award-winning author of fiction and nonfiction for kids and young adults. Whether she's writing about murderous multi-level marketing cults, road trip shenanigans, or climate change activism, she likes to keep things a little silly. She lives in Madison, Wisconsin, where she writes in a tangerine-orange office with two feline assistants. 
+**Mel Hammond** is an American Girl editor turned YA horror writer. Her novels include LUCY, UNCENSORED (Knopf 2024), which she co-wrote with her sister Teghan Hammond, and WHERE THE GIRLS ARE KEPT (Knopf 2027), a YA reimagining of Rosemary’s Baby. At American Girl, she wrote advice books (LOVE THE EARTH, PETS, A SMART GIRL’S GUIDE: BODY IMAGE) and developed contemporary and historical fiction novels. Whether she’s writing about murderous multi-level marketing cults, road trip shenanigans, or climate change activism, she likes to keep things a little silly. She lives in Madison, Wisconsin, where she writes in a tangerine-orange office with two feline assistants.
 
 P.S. My agent is Tracey Adams at [Adams Literary](http://www.adamsliterary.com/).
 
