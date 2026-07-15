@@ -3,6 +3,13 @@ title: In the News
 layout: page
 ---
 <div class="entry">
+    <img src="images/site/WID.png" alt="the words Wisconsin Institute for Discovery At the University of Wisconsin-Madison" class="image-left" style="max-width:20%;">
+    <div class="text">
+        <h3>Wisconsin Institute for Discovery Welcomes Mel as the 2026 Writer in Residence</h3>
+        <h4>04.01.2026</h4>
+        <p>The writer in residence program at Wisconsin Institute for Discovery (WID) at UW-Madison supports creative writers  interested in exploring science as a human endeavor through narrative, metaphor, and imagination. During her 2026 residency, Mel will meet with WID researchers, attend talks and explore how scientific discovery can inform her next book for young readers. Read more here: <a href="https://wid.wisc.edu/mel-hammond-uses-science-to-shape-her-stories/" target="_blank"> Mel Hammond Uses Science to Shape Her Stories</a></p>
+    </div>
+<div class="entry">
     <img src="images/site/women_in_horror.jpg" alt="the words Women in Horror over pink lips" class="image-right" style="max-width:20%;">
     <div class="text">
         <h3>Women in Horror Month Interview</h3>
