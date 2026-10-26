@@ -2,10 +2,10 @@
 title: Where the Girls Are Kept
 layout: page
 ---
-<img src="/images/books/the_girls.png" alt="a rights report with a haunted house background" class="image-right" style="max-width: 35%; height: auto; padding-bottom: 0;">
-Coming June 15, 2027! 
+<img src="/images/books/where_the_girls.jpg" alt="book cover with hands painted like wallpaper that cover a girl's eyes" class="image-right" style="max-width: 35%; height: auto; padding-bottom: 0;">
+Coming June 15, 2027
 
-(Available for [preorder](https://www.penguinrandomhouse.com/books/800518/where-the-girls-are-kept-by-mel-hammond/) now!)
+(Available for [preorder](https://www.penguinrandomhouse.com/books/800518/where-the-girls-are-kept-by-mel-hammond/) now)
 
 **In a post-overturned Roe v. Wade America, native Californian Rowan is stranded in a conservative Ohio town that’s controlled by a cult masquerading as an MLM, where girls who step out of line are known to die under mysterious circumstances—and she’s next—in this contemporary horror retelling of Ira Levin’s _Rosemary's Baby_.**
 

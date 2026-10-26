@@ -51,7 +51,7 @@ layout: page
     <div class="grid-item">
         <h3>Where the Girls Are Kept</h3>
         <a href="https://www.penguinrandomhouse.com/books/800518/where-the-girls-are-kept-by-mel-hammond/" target="_blank">
-            <img src="/images/books/coming_soon_spooky.png" alt="coming soon book cover">
+            <img src="/images/books/where_the_girls.jpg" alt="book cover with hands painted like wallpaper that cover a girl's eyes">
         </a>
         <p>YA Horror, coming June 15, 2027</p>
     </div>

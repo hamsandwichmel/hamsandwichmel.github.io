@@ -12,13 +12,13 @@
                     <div style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
                         <figure style="margin: 0;">
                             <a href="https://www.penguinrandomhouse.com/books/750113/lucy-uncensored-by-mel-hammond-and-teghan-hammond/" target="_blank">
-                                <img src="/images/books/lucy_uncensored.jpeg" alt="Lucy, Uncensored cover, featuring two teenage girls standing in front of a theater marquee" style="max-width: 250px; width: 100%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;">
+                                <img src="/images/books/lucy_uncensored.jpeg" alt="Lucy, Uncensored cover, featuring two teenage girls standing in front of a theater marquee" style="max-width: 275px; width: 100%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;">
                             </a>
                         </figure>
                         
                         <figure style="margin: 0;">
                             <a href="https://www.penguinrandomhouse.com/books/800518/where-the-girls-are-kept-by-mel-hammond/" target="_blank">
-                                <img src="/images/books/the_girls.png" alt="A rights report on a haunted house background" style="max-width: 300px; width: 100%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;">
+                                <img src="/images/books/where_the_girls.jpg" alt="book cover with hands painted like wallpaper that cover a girl's eyes" style="max-width: 275px; width: 100%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;">
                             </a>
                         </figure>
                     </div>
