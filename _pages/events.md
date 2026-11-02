@@ -145,7 +145,7 @@ layout: page
 }
 </style>
 
-Mel (and Teghan!) love to chat about our books. We'd love to visit your school, bookstore, book festival, conference, or podcast—in person or virtually! Reach out on the [Contact](https://www.melhammondbooks.com/contact) page to get in touch.
+Mel loves to chat about her books. She can visit schools, bookstores, book festivals, conferences, book clubs, podcasts, potlucks, birthday parties, Halloween celebrations, family reuinions, soccer games---you name it. Reach out on the [Contact](https://www.melhammondbooks.com/contact) page to get in touch.
 
 <!-- Image Gallery -->
 <div class="gallery-container">
@@ -178,16 +178,10 @@ Mel (and Teghan!) love to chat about our books. We'd love to visit your school, 
         <span class="gallery-dot" onclick="currentSlide(7)"></span>
     </div>
 </div>
-
-### Workshops
-Interested in learning to write for young people? Join an upcoming writing workshop! 
-
-**Past Classes:**
-- Writing YA and Middle Grade Novels, Wednesdays 6-8 PM, September 24-October 15, 2025 - [Arts + Literature Laboratory](https://artlitlab.org/), Madison, Wisconsin. 
-- Writing YA and Middle Grade Novels, Tuesdays 6-8 PM, February 4-24, 2025 - [Arts + Literature Laboratory](https://artlitlab.org/), Madison, Wisconsin. 
-- Writing YA and Middle Grade Novels, Saturday, December 14, 2-4 PM - [Arts + Literature Laboratory](https://artlitlab.org/), Madison, Wisconsin. 
-
 ### Book Events
+
+**Upcoming Events:**
+- Tuesday, June 15, 2026 - 6:30 PM - [WHERE THE GIRLS ARE KEPT](https://www.penguinrandomhouse.com/books/800518/where-the-girls-are-kept-by-mel-hammond/) Launch Party at [Lake City Books](https://www.lakecitybooks.com/), Madison, Wisconsin
 
 **Past Events:**
 - Monday, September 15, 2025 - 7 PM - [Mel and Teghan spoke at Kansas State University](https://www.facebook.com/share/p/1EXPU2pgyr/) Manhattan, Kansas
@@ -198,17 +192,29 @@ Interested in learning to write for young people? Join an upcoming writing works
 - October 8, 2024 - [Hyde Brothers Booksellers](https://hydebros.com/), Fort Wayne, Indiana
 - June 23, 2024 - [Authors Telling Stories](https://www.dailyunion.com/news/jefferson_county_area/story-slam-lake-mills-author-event-raises-funds-for-jefferson-county-literacy-council/article_f1d32cdc-3196-11ef-af63-db7e8b9b65ff.html), Lewis Station, Lake Mills, WI
 
+### Conferences
+- [Horror Authors Are Coming for Your Kids: Come Play with Us . . . Forever . . .](https://conference.awpwriter.org/Conference_Schedule_Events.cfm?session_key=F43749F5-398C-F111-8106-D2050435DA8A&session_date=Saturday,%20Mar%2020,%202027#) Saturday, March 20, 1:45-3 PM - [2027 AWP Conference & Bookfair](https://conference.awpwriter.org/), Chicago, IL
+
+### Workshops
+Interested in learning to write for young people? Stay tuned for upcoming writing workshops!
+
+**Past Classes:**
+- Writing YA and Middle Grade Novels, Wednesdays 6-8 PM, September 24-October 15, 2025 - [Arts + Literature Laboratory](https://artlitlab.org/), Madison, Wisconsin. 
+- Writing YA and Middle Grade Novels, Tuesdays 6-8 PM, February 4-24, 2025 - [Arts + Literature Laboratory](https://artlitlab.org/), Madison, Wisconsin. 
+- Writing YA and Middle Grade Novels, Saturday, December 14, 2-4 PM - [Arts + Literature Laboratory](https://artlitlab.org/), Madison, Wisconsin. 
+
+
 ### Podcasts & Interviews
 Mel and Teghan love to talk. Invite us onto your show! 
 
 **Listen here:**
-- "Chat with Authors Mel and Teghan Hammond on Working and Revising with a Co-writer" - [A Novel Ending Podcast](https://www.anovelending.com/episode40)
+- "Chat with Authors Mel and Teghan Hammond on Working and Revising with a Co-writer" - A Novel Ending Podcast
 - "Mel and Teghan Hammond" - [Something (Rather Than Nothing) Podcast](https://podcasts.apple.com/us/podcast/mel-and-teghan-hammond/id1473313040?i=1000652795846)
 - "I Interviewed the American Girl Author Canceled by the Far Right" - [Savy Writes Books](https://youtu.be/pbcayXOV7Tc?si=J5zsrcT5ineM4Hji)
-- "Chapter 44: My Lord and Lady with Mel and Teghan Hammond" - [Jo's Boys: A Little Women Podcast](https://jos-boys-a-little-women-podcast.castos.com/episodes/chapter-44-my-lord-and-lady-with-mel-and-teghan-hammond)
+- "Chapter 44: My Lord and Lady with Mel and Teghan Hammond" - [Jo's Boys: A Little Women Podcast](https://podcasts.apple.com/us/podcast/chapter-44-my-lord-and-lady-with-mel-and-teghan-hammond/id1610742792?i=1000641415364)
 
 ### School Visits
-Mel and Teghan can visit your school in person or virtually to discuss LUCY, UNCENSORED and their unique process of cowriting a YA novel as sisters. Mel can also visit your school to discuss climate change, pets, how books are made, and how to write a story.
+Mel can visit your school in person or virtually to discuss her books, how to write a story, and much more.
 
 **Past School Visits:**
 - *PETS* school visit, Kindergarten - Cross Plains, Wisconsin
